@@ -1,0 +1,1016 @@
+customer_id,age,gender,subscription_plan,monthly_subscription_fee_usd,payment_method,daily_streaming_hours,primary_device,content_genre_favorite,watch_time_late_night_hours,offline_downloads_monthly,number_of_profiles_shared,buffering_events_weekly,customer_support_tickets,student_gpa,work_productivity_score,satisfaction_score,streaming_quality_preference,tenure_months,churn_risk_level
+CUST-1753,23,Male , Premium,18.99,EWALLET,3.73,smart tv,action ,2.14,1,5,7,5,,8.5,Very Dissatisfied,4K UHD,7,High
+CUST-1520,50,FEMALE , standard,13.99,e-wallet,4.25,SMART TV,Drama ,2.26,2,3,4,0,,3.2,Satisfied,4K UHD,9,Low
+CUST-1211,39,MALE,PREMIUM,18.99,EWALLET,5.25, Mobile,ACTION,1.73,20,3,10,4,,8.7,Dissatisfied,FHD (1080p),48,High
+CUST-1612,18,Male ,Basic,8.99,E-Wallet,3.51,Smart TV,DRAMA,0.09,6,1,5,0,,6.9,Neutral,SD (480p),9,Moderate
+CUST-1915,39,female ,STANDARD,13.99,Bank Transfer,5.35,MOBILE,Sci-Fi ,1.62,19,2,2,2,,6.2,Neutral,4K UHD,1,Moderate
+CUST-1535,44,MALE,Standard ,13.99, CREDIT CARD,4.18,MOBILE,drama,0.87,16,3,3,0,,4.9,Neutral,4K UHD,10,Low
+CUST-1842,48,FEMALE ,basic,8.99,bank transfer,2.79, Mobile,Drama ,0.4,3,1,4,0,,6.3,Satisfied,SD (480p),38,Low
+CUST-1200,25,MALE,Premium,18.99,Paylater ,2.85,smart tv,action ,1.93,6,4,0,0,,5.8,Very Satisfied,4K UHD,1,Low
+CUST-1216,24,female ,Student,4.99,credit card,2.95,MOBILE,Drama ,1.09,11,2,7,2,2.45,,Neutral,FHD (1080p),8,Moderate
+CUST-1589,34,Other,basic ,8.99, CREDIT CARD,3.6,mobile,ACTION,0.7,4,1,7,1,,6.4,Dissatisfied,SD (480p),21,High
+CUST-1595,25, female, standard,13.99,Bank Transfer,3.6,Smart TV ,Drama,1.23,4,2,4,0,,7.0,Satisfied,FHD (1080p),5,Moderate
+CUST-1430,45,FEMALE,premium,18.99,BANK TRANSFER,1.48,TABLET,Action,0.77,21,4,8,3,,5.1,Very Dissatisfied,FHD (1080p),48,High
+CUST-1548,39,Male , Basic,8.99,e-wallet,1.8, Mobile, anime,1.09,7,1,7,3,,6.7,Very Dissatisfied,SD (480p),1,High
+CUST-1598,27, female,Basic,8.99,E-Wallet,3.81, Mobile,Action,2.03,3,1,3,2,,3.7,Dissatisfied,HD (720p),18,High
+CUST-1741,38,Female,standard,13.99,E-Wallet ,5.11, Mobile, Action,1.23,18,2,4,1,,5.5,Satisfied,4K UHD,48,Low
+CUST-1406,42,female ,Basic,8.99,E-Wallet,2.82,SMART TV, comedy,0.69,3,1,7,0,,6.3,Neutral,SD (480p),36,Low
+CUST-1986,25,FEMALE ,Basic,8.99,CreditCard,3.71, Tablet,action ,0.27,2,1,4,1,,6.9,Satisfied,HD (720p),4,Moderate
+CUST-1356,25, female,Basic,8.99,credit card,3.48,pc,Action,1.81,7,1,7,2,,7.2,Neutral,SD (480p),23,Moderate
+CUST-1667,29,female ,Standard,13.99,Ewallet,3.1,Laptop/PC,DRAMA,0.34,6,3,3,1,,6.2,Satisfied,FHD (1080p),25,Low
+CUST-1824,33,Other , standard,13.99,Credit Card ,3.5,tablet ,Comedy,0.54,21,2,4,0,,8.6,Satisfied,FHD (1080p),21,Low
+CUST-1754,32,Female,BASIC,8.99,E-Wallet,2.84, Mobile, Action,0.39,4,1,1,0,,9.1,Very Satisfied,HD (720p),6,Low
+CUST-1140,31,FEMALE , Basic,8.99, CREDIT CARD,42.0,mobile ,Documentary,2.04,6,1,5,0,,10.0,Satisfied,SD (480p),4,Moderate
+CUST-1257,28,Female, standard,13.99,Paylater ,2.82,mobile ,Drama,1.13,18,2,8,0,,7.9,Satisfied,FHD (1080p),9,Moderate
+CUST-1685,35,Male,basic,8.99, E-Wallet,2.68,TABLET, Action,0.28,4,1,7,2,,7.1,Neutral,SD (480p),48,Moderate
+CUST-1929,20,FEMALE,student,4.99,e-wallet,4.85,laptop/pc, comedy,1.39,15,2,7,3,2.91,,Very Dissatisfied,HD (720p),5,High
+CUST-1808,54,FEMALE,premium ,18.99,bank transfer,2.65,Mobile,DRAMA,1.56,18,5,6,3,,6.6,Dissatisfied,4K UHD,10,High
+CUST-1250,18,MALE, student,4.99,Bank Transfer ,2.95,mobile,SciFi,2.07,12,2,5,1,3.73,,Neutral,FHD (1080p),24,Moderate
+CUST-1214,37,Male ,STANDARD,13.99,E-Wallet ,1.93,MOBILE, Action,0.88,20,3,3,0,,5.6,Neutral,4K UHD,46,Low
+CUST-1313,40,female ,BASIC,8.99,bank transfer,2.21,Smart TV, comedy,0.28,3,1,6,1,,6.3,Dissatisfied,HD (720p),15,High
+CUST-1482,34,FEMALE,premium,18.99,e-wallet,3.41,SMART TV, comedy,0.78,6,5,6,1,,6.7,Dissatisfied,4K UHD,48,Moderate
+CUST-1950,35,female ,standard,13.99, CREDIT CARD,3.14,Mobile,Documentary ,0.9,15,3,6,1,,7.6,Neutral,FHD (1080p),26,Low
+CUST-1137,33,male,premium,18.99,E-Wallet,2.44, Mobile,Action,0.87,21,3,6,3,,8.6,Very Dissatisfied,FHD (1080p),42,High
+CUST-1060,25,FEMALE ,STANDARD,13.99,Bank Transfer ,1.96,tablet ,Sci-Fi ,0.13,21,3,2,1,,7.5,Neutral,FHD (1080p),4,Moderate
+CUST-1360,38,FEMALE,Basic,8.99,Bank Transfer,1.7,Laptop/PC ,Drama,0.53,5,1,5,0,,8.0,Satisfied,HD (720p),25,Low
+CUST-1281,19,FEMALE , student,4.99, E-Wallet,3.97,Tablet,Action,0.92,13,1,9,1,3.35,,Dissatisfied,FHD (1080p),25,High
+CUST-1600,26,Female ,Standard,13.99,Ewallet,5.61,Smart TV ,ACTION,3.89,3,3,5,1,,5.9,Satisfied,4K UHD,48,Low
+CUST-1962,22,male ,Student,4.99,EWALLET,3.88,Laptop/PC , anime,1.42,17,1,6,3,2.41,,Very Dissatisfied,HD (720p),13,High
+CUST-1310,35,Female ,basic ,8.99,Credit Card,-2.65,MOBILE,DRAMA,0.0,4,1,4,1,,8.1,Neutral,HD (720p),48,Moderate
+CUST-1175,52, Male,premium ,18.99,credit card,1.67,Mobile,Sci-Fi,0.24,15,4,4,2,,5.5,Dissatisfied,FHD (1080p),2,High
+CUST-1433,16,FEMALE,Basic,8.99,EWALLET,5.49, Mobile,Comedy ,3.41,6,1,7,1,,7.6,Dissatisfied,HD (720p),7,High
+CUST-1637,33,male,basic,8.99,Ewallet,4.97,pc,Drama,3.38,6,1,6,2,,6.1,Neutral,SD (480p),3,High
+CUST-1892,25,male,standard,13.99,CreditCard,5.33, Smart TV,drama,0.57,10,3,5,2,,5.9,Dissatisfied,4K UHD,48,Moderate
+CUST-1429,41,male,BASIC,8.99,PayLater,3.18, Mobile,DRAMA,0.3,1,1,3,1,,5.0,Satisfied,SD (480p),13,Low
+CUST-1594,19, Male,standard,13.99,Bank Transfer ,3.96, Smart TV,Drama,1.05,5,2,8,3,,5.9,Dissatisfied,FHD (1080p),6,High
+CUST-1291,20, Male,Student,4.99,BANK TRANSFER,3.21,mobile , Action,1.94,19,1,5,1,2.15,,Neutral,HD (720p),17,Moderate
+CUST-1071,29, female, Basic,8.99,CreditCard,4.67,mobile ,ANIME,1.64,3,1,8,1,,7.8,Dissatisfied,SD (480p),47,High
+CUST-1995,36,Female ,BASIC,8.99,E-Wallet,3.01,tablet ,Drama ,0.15,11,1,6,2,,6.7,Neutral,HD (720p),14,Moderate
+CUST-1097,17,OTHER,Basic,8.99,E-Wallet ,3.97,PC, Action,0.39,3,1,3,2,,7.0,Neutral,SD (480p),3,High
+CUST-1011,33,FEMALE,Standard ,13.99,Bank Transfer,5.03, Smart TV, comedy,0.71,2,3,3,0,,5.7,Satisfied,4K UHD,35,Low
+CUST-1297,19,MALE, student,4.99,bank transfer,3.3,mobile,SCI-FI,1.43,15,1,6,1,3.64,,Neutral,HD (720p),25,Moderate
+CUST-1854,33,Other,standard,13.99,CreditCard,3.42, Smart TV,drama,2.46,2,2,5,1,,7.8,Neutral,4K UHD,4,High
+CUST-1581,25,FEMALE,Premium,18.99,PAYLATER,3.67,TABLET, Action,1.63,13,4,4,1,,6.1,Satisfied,4K UHD,48,Low
+CUST-1287,25,male, Basic,8.99,EWALLET,3.11, Smart TV,Drama,0.13,5,1,3,3,,4.6,Dissatisfied,SD (480p),26,High
+CUST-1102,18, Male,STUDENT,4.99,credit card,4.43,Tablet,Action,0.58,20,2,6,2,3.66,,Dissatisfied,FHD (1080p),12,High
+CUST-1498,28,male ,standard,13.99,Bank Transfer,4.34,laptop/pc,Drama ,1.08,5,3,10,2,,8.9,Dissatisfied,4K UHD,8,High
+CUST-1733,21,Female ,premium ,18.99, CREDIT CARD,3.1,Smart TV ,sci-fi,1.11,5,5,3,2,,7.4,Neutral,4K UHD,27,Low
+CUST-1469,30,male ,Basic,8.99,Bank Transfer,4.52,MOBILE,DRAMA,2.71,5,1,4,0,,3.5,Satisfied,SD (480p),16,Low
+CUST-1706,25,female ,PREMIUM,18.99, CREDIT CARD,2.55,Smart TV,Comedy ,0.08,2,3,5,1,,3.5,Neutral,4K UHD,35,Low
+CUST-1031,33, Male,premium ,18.99,bank transfer,4.73,smart tv,Drama ,1.51,2,5,3,1,,6.8,Neutral,4K UHD,3,Moderate
+CUST-1366,32, Male,STANDARD,13.99,credit card,4.29,Laptop/PC,Action,3.06,1,2,6,3,,5.5,Very Dissatisfied,4K UHD,3,High
+CUST-1885,25, female,BASIC,8.99,CreditCard,3.35,Smart TV,Anime,0.45,4,1,6,3,,5.4,Very Dissatisfied,HD (720p),15,High
+CUST-1077,18,FEMALE,Student ,4.99,bank transfer,2.41,MOBILE, comedy,1.44,6,2,9,2,3.81,,Very Dissatisfied,HD (720p),3,High
+CUST-1395,25,Male , Premium,18.99,Credit Card,2.52,Smart TV,action ,1.43,3,5,5,0,,7.6,Neutral,4K UHD,26,Low
+CUST-1055,40,FEMALE ,STANDARD,13.99,Bank Transfer,3.64,mobile ,Comedy,2.69,18,2,4,2,,7.8,Neutral,FHD (1080p),2,High
+CUST-1024,25,FEMALE ,premium ,18.99,e-wallet,3.94,MOBILE,COMEDY,2.93,24,5,6,3,,9.8,Dissatisfied,4K UHD,2,High
+CUST-1896,23,FEMALE ,BASIC,8.99,paylater,5.23,mobile ,Comedy ,3.63,4,1,2,0,,5.6,Satisfied,SD (480p),3,Moderate
+CUST-1445,51,male,Basic,8.99,Bank Transfer,2.04,Smart TV,ANIME,0.13,4,1,9,2,,4.9,Very Dissatisfied,HD (720p),1,High
+CUST-1255,40,male,Premium,18.99,bank transfer,3.55, Mobile,Drama,2.55,25,5,5,0,,5.7,Satisfied,4K UHD,27,Low
+CUST-1431,35,FEMALE,Standard ,13.99,CreditCard,4.9,smart tv, anime,0.22,4,3,3,0,,5.6,Satisfied,FHD (1080p),2,Low
+CUST-1497,35, Male,BASIC,8.99,e-wallet,5.02,MOBILE,action ,3.36,4,1,3,1,,6.2,Satisfied,HD (720p),4,Moderate
+CUST-1549,26,FEMALE, Basic,8.99, CREDIT CARD,5.84,laptop/pc, Action,3.76,3,1,8,0,,7.0,Satisfied,SD (480p),18,Moderate
+CUST-1658,39,FEMALE,premium,18.99,E-Wallet ,3.94,MOBILE,ACTION,1.98,23,5,7,2,,7.4,Neutral,4K UHD,35,Low
+CUST-1159,17,MALE,basic ,8.99,E-Wallet,2.13,Smart TV,action ,1.2,8,1,2,0,,3.7,Very Satisfied,HD (720p),23,Low
+CUST-1875,34,Female ,standard,13.99,Credit Card,3.25,mobile, Action,2.38,21,3,4,1,,5.6,Neutral,FHD (1080p),10,Moderate
+CUST-1650,42,male , standard,13.99,credit card,2.54, Mobile,drama,1.22,14,3,8,1,,8.3,Neutral,FHD (1080p),48,Moderate
+CUST-1811,16,male,Basic,8.99,bank transfer,1.83,mobile , Action,1.04,6,1,1,0,,7.8,Satisfied,SD (480p),13,Low
+CUST-1536,16,male,Student ,4.99,E-Wallet ,4.58,mobile,Drama ,0.22,15,2,5,2,2.7,,Neutral,HD (720p),4,High
+CUST-1681,30, female, Basic,8.99,Credit Card,4.98,PC,Anime ,3.01,11,1,8,1,,7.0,Neutral,SD (480p),21,High
+CUST-1690,23,FEMALE ,standard,13.99,Credit Card ,3.57,MOBILE,Comedy,2.32,14,3,4,1,,6.2,Satisfied,4K UHD,18,Low
+CUST-1530,25, female,Standard ,13.99,BANK TRANSFER,3.95,Smart TV , anime,2.21,2,3,9,2,,9.3,Very Dissatisfied,4K UHD,26,High
+CUST-1519,37, female, Basic,8.99,Bank Transfer ,3.57,mobile,Drama ,0.18,7,1,7,0,,7.1,Neutral,SD (480p),5,High
+CUST-1409,40,Male ,Basic,8.99,Ewallet,4.68,tablet,Anime ,1.14,5,1,6,3,,6.8,Dissatisfied,SD (480p),3,High
+CUST-1040,32,Female ,STANDARD,13.99,E-Wallet ,4.0,mobile,Drama,2.54,15,3,6,2,,1.5,Dissatisfied,FHD (1080p),4,High
+CUST-1308,20, Male,Student,4.99,Credit Card ,3.02,SMART TV,Anime ,0.11,18,1,6,2,3.27,,Neutral,HD (720p),6,Moderate
+CUST-1671,28,Male ,Standard ,13.99,Bank Transfer ,3.92, Smart TV,ACTION,0.84,5,3,5,0,,8.2,Neutral,4K UHD,43,Low
+CUST-1920,25, female,STANDARD,13.99,paylater,5.78,laptop/pc,Action,1.0,3,3,5,1,,8.5,Neutral,FHD (1080p),11,Moderate
+CUST-1480,41, female, Basic,8.99,Credit Card,1.78,PC,SCI-FI,0.12,3,1,7,2,,5.9,Dissatisfied,HD (720p),10,High
+CUST-1067,24,FEMALE,Student,4.99,E-Wallet ,4.37,tablet ,Comedy ,1.02,13,2,7,1,2.33,,Neutral,FHD (1080p),4,High
+CUST-1531,23,female ,BASIC,8.99,Bank Transfer,2.61,MOBILE,drama,0.44,6,1,4,0,,7.2,Satisfied,HD (720p),26,Low
+CUST-1068,25,MALE,basic,8.99,Credit Card ,3.49,Laptop/PC ,ANIME,0.14,3,1,8,1,,6.1,Neutral,SD (480p),2,High
+CUST-1716,16,FEMALE ,PREMIUM,18.99, CREDIT CARD,2.36,Smart TV, comedy,1.48,4,5,4,1,,7.4,Satisfied,4K UHD,19,Low
+CUST-1236,41,Male ,Basic,8.99,E-Wallet ,2.85,PC, Action,1.23,4,1,3,0,,5.9,Neutral,SD (480p),1,Moderate
+CUST-1537,25, Male,Basic,8.99,paylater,3.12,Laptop/PC,sci-fi,0.81,2,1,4,1,,8.2,Neutral,HD (720p),9,Moderate
+CUST-1108,21,FEMALE ,STUDENT,4.99,Ewallet,3.34, Mobile,documentary,1.76,8,2,4,0,2.2,,Neutral,HD (720p),3,High
+CUST-1927,43,male,premium,18.99,paylater,2.83,MOBILE,action ,1.44,19,5,7,3,,3.6,Dissatisfied,FHD (1080p),4,High
+CUST-1532,16,FEMALE,Student,4.99,Ewallet,4.4,smart tv,Drama ,1.16,19,2,5,2,3.75,,Dissatisfied,FHD (1080p),16,High
+CUST-1634,37,FEMALE ,premium,18.99,Bank Transfer ,1.66,Mobile,Comedy ,0.71,20,3,3,2,,8.2,Neutral,FHD (1080p),16,Moderate
+CUST-1543,19,Male, Basic,8.99,Bank Transfer,4.31,Smart TV,ANIME,1.72,3,1,5,0,,9.6,Satisfied,SD (480p),44,Low
+CUST-1555,26, female,BASIC,8.99,e-wallet,2.68,mobile ,drama,0.58,5,1,10,2,,6.6,Very Dissatisfied,HD (720p),15,High
+CUST-1799,28,male ,basic ,8.99,EWALLET,3.2,MOBILE,SCI-FI,1.95,4,1,6,0,,6.4,Satisfied,HD (720p),25,Low
+CUST-1245,37,female ,Standard ,13.99,Credit Card ,3.13,Smart TV,Sci-Fi ,0.01,2,2,3,0,,7.6,Satisfied,FHD (1080p),48,Low
+CUST-1661,27,Male, Basic,8.99,E-Wallet,4.01,Mobile,Action,0.58,1,1,5,1,,8.4,Satisfied,SD (480p),13,Moderate
+CUST-1884,47, Male,Standard,13.99, E-Wallet,4.14, Smart TV,DRAMA,2.11,3,3,8,1,,3.7,Dissatisfied,FHD (1080p),36,High
+CUST-1590,38,FEMALE ,Basic,8.99,paylater,5.24,pc,Action,1.9,2,1,5,0,,4.9,Neutral,SD (480p),15,Moderate
+CUST-1089,45,FEMALE ,Premium,18.99,BANK TRANSFER,-3.53,Mobile,Drama ,0.0,23,4,6,3,,9.4,Very Dissatisfied,FHD (1080p),13,High
+CUST-1064,31,female ,PREMIUM,18.99, CREDIT CARD,2.73, Tablet,Drama,0.16,15,5,3,0,,6.2,Satisfied,FHD (1080p),30,Low
+CUST-1887,44,Other,premium,18.99,Paylater ,3.11, Smart TV,ACTION,1.15,2,3,4,2,,5.5,Neutral,4K UHD,2,High
+CUST-1343,25,male ,basic ,8.99, CREDIT CARD,4.66,mobile ,SciFi,2.96,1,1,2,0,,6.2,Satisfied,SD (480p),19,Low
+CUST-1276,27,OTHER,Premium,18.99,credit card,2.35,Laptop/PC,COMEDY,1.27,4,5,5,1,,7.8,Neutral,4K UHD,13,Moderate
+CUST-1707,17,female , standard,13.99,Ewallet,2.74,laptop/pc,action ,1.7,5,3,7,3,,7.0,Dissatisfied,4K UHD,3,High
+CUST-1858,16,Male ,Basic,8.99,PayLater,4.95,Mobile,Comedy ,0.8,5,1,7,3,,5.1,Dissatisfied,SD (480p),15,High
+CUST-1618,36,MALE,standard,13.99,Credit Card ,3.31,SMART TV,ACTION,0.75,2,2,3,0,,8.5,Satisfied,FHD (1080p),48,Low
+CUST-1210,19,FEMALE, student,4.99,Credit Card,2.29, Mobile,SCI-FI,0.45,16,1,8,1,3.53,,Dissatisfied,FHD (1080p),28,High
+CUST-1110,37,other,Standard ,13.99, E-Wallet,3.25,SMART TV,Action,1.95,4,2,6,4,,5.0,Dissatisfied,FHD (1080p),9,High
+CUST-1278,36, Male,premium ,18.99,Bank Transfer ,3.4,mobile ,Drama,1.25,17,4,7,0,,5.4,Neutral,4K UHD,1,Moderate
+CUST-1185,38,male ,standard,13.99,bank transfer,1.43,mobile,Anime ,0.92,17,2,6,1,,7.1,Neutral,FHD (1080p),7,Moderate
+CUST-1906,32,FEMALE ,basic,8.99,Bank Transfer ,5.11,mobile ,ANIME,1.07,5,1,6,3,,5.4,Dissatisfied,SD (480p),5,High
+CUST-1483,26,male, Premium,18.99, E-Wallet,3.37,Smart TV , Action,1.78,1,3,2,2,,5.2,Neutral,4K UHD,48,Low
+CUST-1307,33,Female,premium ,18.99,credit card,4.32,Tablet,Anime ,0.56,16,5,4,1,,5.9,Neutral,4K UHD,26,Low
+CUST-1689,23,female ,STUDENT,4.99,Credit Card ,4.36,mobile,sci-fi,1.55,9,1,7,3,2.93,,Dissatisfied,HD (720p),4,High
+CUST-1975,25,Female,basic,8.99,EWALLET,2.25,mobile ,Action,0.6,5,1,6,0,,5.8,Satisfied,HD (720p),35,Low
+CUST-1826,43,Male ,standard,13.99, CREDIT CARD,5.37,pc, comedy,0.74,5,3,4,0,,5.5,Neutral,FHD (1080p),21,Moderate
+CUST-1880,17, female,STUDENT,4.99, E-Wallet,3.26,PC,COMEDY,0.46,7,1,2,1,3.32,,Neutral,FHD (1080p),36,Low
+CUST-1786,30,Other,BASIC,8.99,credit card,4.98,Smart TV ,SciFi,0.29,3,1,7,4,,8.1,Very Dissatisfied,HD (720p),30,High
+CUST-1691,18, female, student,4.99,Credit Card,4.05,laptop/pc,action ,3.0,13,2,6,3,3.73,,Dissatisfied,FHD (1080p),5,High
+CUST-1341,39, Male,Standard ,13.99,E-Wallet,3.02,Smart TV,action ,0.09,2,3,2,2,,6.9,Neutral,FHD (1080p),26,Low
+CUST-1837,25,MALE,standard,13.99,BANK TRANSFER,2.62, Mobile,ANIME,1.12,20,3,5,0,,4.6,Satisfied,FHD (1080p),33,Low
+CUST-1087,24,female ,Standard,13.99,Credit Card ,2.09, Mobile,DOCUMENTARY,0.08,16,3,8,4,,6.0,Dissatisfied,4K UHD,25,High
+CUST-1674,37,Male,PREMIUM,18.99,credit card,3.5,SMART TV,DOCUMENTARY,2.3,5,5,8,0,,6.3,Satisfied,4K UHD,3,Moderate
+CUST-1322,29,Female,standard,13.99,Bank Transfer ,2.04,smart tv,Comedy,1.24,2,2,9,3,,6.0,Dissatisfied,4K UHD,5,High
+CUST-1282,37,MALE,basic,8.99,Credit Card,4.12,Smart TV ,Comedy,1.65,3,1,6,2,,5.7,Dissatisfied,SD (480p),22,High
+CUST-1558,19,Male ,STUDENT,4.99, E-Wallet,2.12,pc,action ,0.44,22,1,5,1,3.86,,Neutral,FHD (1080p),27,Moderate
+CUST-1351,25,MALE,Standard,13.99,Bank Transfer,3.98,pc,Drama,1.95,4,3,5,0,,5.9,Neutral,4K UHD,48,Low
+CUST-1757,21,male,Student ,4.99,credit card,4.1,Laptop/PC,Anime ,1.67,13,2,3,1,3.35,,Neutral,FHD (1080p),15,Moderate
+CUST-1399,30, female,Standard ,13.99,Bank Transfer,5.49,Smart TV, Action,0.7,3,3,4,0,,8.0,Satisfied,FHD (1080p),32,Low
+CUST-1306,28, female,premium ,18.99,Credit Card ,4.6,MOBILE,Comedy ,0.45,14,5,9,1,,6.2,Neutral,4K UHD,18,High
+CUST-1632,39,Male ,basic ,8.99,CreditCard,5.16,Smart TV ,Action,3.65,6,1,6,1,,6.2,Dissatisfied,SD (480p),2,High
+CUST-1463,32,FEMALE,Standard ,13.99,E-Wallet ,3.57,Laptop/PC ,sci-fi,0.11,1,2,2,2,,4.4,Satisfied,4K UHD,19,Low
+CUST-1765,25,FEMALE,basic,8.99,credit card,5.29,mobile,Comedy ,2.3,5,1,2,1,,6.6,Satisfied,HD (720p),2,Moderate
+CUST-1491,38,Male,Standard,13.99, CREDIT CARD,2.87,Smart TV ,ACTION,1.7,2,2,5,1,,8.1,Neutral,FHD (1080p),3,High
+CUST-1818,38,Female, standard,13.99,CreditCard,4.86,mobile ,Comedy,0.92,18,3,7,0,,6.8,Satisfied,4K UHD,1,Moderate
+CUST-1862,20,male ,premium ,18.99,BANK TRANSFER,3.43,mobile ,drama,2.53,15,5,5,1,,6.6,Neutral,4K UHD,32,Low
+CUST-1534,34, Male,PREMIUM,18.99,PayLater,3.62, Smart TV,Drama,1.85,3,5,4,0,,9.7,Neutral,4K UHD,6,Moderate
+CUST-1604,27,Male ,standard,13.99,CreditCard,3.71,pc, Action,0.43,3,3,11,3,,9.3,Very Dissatisfied,FHD (1080p),14,High
+CUST-1597,37,Female ,premium,18.99,paylater,3.13,mobile,ACTION,2.17,14,4,5,0,,4.9,Neutral,FHD (1080p),48,Low
+CUST-1056,36,FEMALE,basic,8.99,EWALLET,1.89,PC,DRAMA,1.1,2,1,5,0,,7.9,Satisfied,SD (480p),22,Low
+CUST-1121,-30, Male, standard,13.99,Credit Card ,1.97, Mobile, Action,0.65,21,2,4,0,,5.8,Satisfied,4K UHD,31,Low
+CUST-1901,30,female ,Basic,8.99,E-Wallet,2.57,smart tv,Sci-Fi,1.15,1,1,8,2,,6.7,Dissatisfied,HD (720p),32,High
+CUST-1026,26,MALE,Standard ,13.99,Bank Transfer,4.1,PC,Action,1.97,3,2,1,0,,7.1,Very Satisfied,4K UHD,28,Low
+CUST-1073,43,male ,BASIC,8.99, CREDIT CARD,2.02,Tablet,Comedy ,0.71,3,1,3,0,,7.1,Satisfied,SD (480p),25,Low
+CUST-1045,20,Female ,Student,4.99,e-wallet,2.44,smart tv,Comedy ,0.67,13,1,4,1,2.93,,Satisfied,HD (720p),4,Moderate
+CUST-1260,33, Male,standard,13.99,CreditCard,3.87, Tablet,Sci-Fi,1.33,20,2,3,1,,6.6,Satisfied,FHD (1080p),9,Low
+CUST-1209,17,Male,Basic,8.99,BANK TRANSFER,4.65,Smart TV,Anime,3.33,7,1,4,1,,7.9,Neutral,SD (480p),31,Moderate
+CUST-1295,60, Male, Basic,8.99,bank transfer,2.12,laptop/pc,Action,1.39,2,1,2,1,,7.1,Neutral,HD (720p),34,Low
+CUST-1994,29,Other,premium ,18.99,CreditCard,4.74, Mobile,Anime,3.24,18,5,8,3,,6.6,Very Dissatisfied,FHD (1080p),6,High
+CUST-1714,43, female,standard,13.99,Credit Card ,2.28,SMART TV,action ,0.45,1,3,6,3,,7.1,Very Dissatisfied,4K UHD,13,High
+CUST-1299,42, female,basic,8.99,CreditCard,3.1,Mobile,Action,0.09,3,1,7,1,,6.0,Dissatisfied,SD (480p),3,High
+CUST-1787,32,Male, Basic,8.99, E-Wallet,4.4,Tablet,action ,2.7,3,1,6,2,,7.2,Dissatisfied,SD (480p),33,Moderate
+CUST-1446,26,Male ,BASIC,8.99,E-Wallet ,3.32,mobile ,DRAMA,2.13,6,1,6,3,,2.5,Very Dissatisfied,HD (720p),4,High
+CUST-1335,16,Male , student,4.99,EWALLET,4.22,Smart TV,Sci-Fi,0.45,8,2,8,0,3.62,,Neutral,HD (720p),5,High
+CUST-1654,46,Female ,Standard,13.99,Credit Card,5.16,Smart TV,Comedy,1.08,2,3,6,1,,4.9,Neutral,4K UHD,7,Moderate
+CUST-1169,41,male,Standard ,13.99,Credit Card,2.93,smart tv,Sci-Fi,0.03,6,3,3,0,,5.8,Satisfied,4K UHD,5,Low
+CUST-1248,41,female ,Premium,18.99,e-wallet,5.21, Smart TV,Comedy,1.88,3,5,5,0,,6.8,Satisfied,4K UHD,9,Low
+CUST-1845,18, female, Basic,8.99, PayLater,3.43,SMART TV,action ,1.38,2,1,7,3,,7.4,Dissatisfied,SD (480p),28,High
+CUST-1955,34,Female,Standard,13.99, CREDIT CARD,5.74,MOBILE,SciFi,2.23,10,3,4,0,,7.5,Neutral,FHD (1080p),48,Low
+CUST-1778,28,FEMALE,basic,8.99,Bank Transfer ,2.82,laptop/pc,SCI-FI,1.3,8,1,4,1,,7.6,Satisfied,SD (480p),9,Moderate
+CUST-1332,19,FEMALE , student,4.99,Bank Transfer ,4.41,PC,Comedy,1.96,12,2,3,0,3.57,,Neutral,FHD (1080p),4,Moderate
+CUST-1311,53,FEMALE,Basic,8.99,E-Wallet ,2.79,mobile ,DRAMA,1.66,3,1,6,3,,8.3,Very Dissatisfied,SD (480p),14,High
+CUST-1061,21, Other,standard,13.99,e-wallet,1.54,pc,drama,0.55,7,3,5,0,,8.8,Satisfied,FHD (1080p),38,Low
+CUST-1514,25, female,STANDARD,13.99,E-Wallet,2.8,PC, Action,0.77,1,3,5,4,,7.6,Very Dissatisfied,FHD (1080p),19,High
+CUST-1605,39, Male, standard,13.99, E-Wallet,5.65,mobile,action ,0.95,27,2,4,2,,7.6,Neutral,4K UHD,13,Moderate
+CUST-1606,22,Male ,Student ,4.99,Credit Card,4.5,mobile,DRAMA,0.14,15,2,7,3,2.72,,Very Dissatisfied,FHD (1080p),2,High
+CUST-1850,18,Female ,premium ,18.99,PayLater,4.94,SMART TV,Action,2.62,4,4,0,0,,7.8,Very Satisfied,4K UHD,7,Low
+CUST-1486,37,female ,standard,13.99,paylater,5.45, Mobile,Comedy,0.1,14,3,5,0,,8.3,Satisfied,FHD (1080p),15,Low
+CUST-1424,33, female,Standard,13.99,Ewallet,3.75,MOBILE,Anime ,0.38,12,2,5,0,,9.7,Satisfied,FHD (1080p),30,Low
+CUST-1603,42,FEMALE, standard,13.99,E-Wallet ,2.45,mobile ,Comedy,1.22,13,2,4,0,,9.0,Neutral,4K UHD,18,Moderate
+CUST-1199,45,FEMALE,BASIC,8.99,Bank Transfer,30.5, Mobile, Action,3.28,2,1,7,3,,6.7,Very Dissatisfied,HD (720p),11,High
+CUST-1345,16,FEMALE,Student,4.99,Bank Transfer,2.01,Laptop/PC,drama,1.17,9,1,5,0,2.48,,Neutral,FHD (1080p),11,Moderate
+CUST-1894,26, female, standard,13.99,Bank Transfer ,4.7,Smart TV,Comedy ,2.08,2,2,7,2,,8.5,Dissatisfied,4K UHD,5,High
+CUST-1833,21,Female,STUDENT,4.99,BANK TRANSFER,3.19,mobile ,Documentary,0.38,13,1,4,0,2.84,,Neutral,HD (720p),4,High
+CUST-1639,27,MALE,BASIC,8.99,Bank Transfer,6.32,Laptop/PC,SCI-FI,2.76,2,1,7,4,,7.4,Very Dissatisfied,SD (480p),17,High
+CUST-1334,19,Female ,Basic,8.99,bank transfer,5.12,Smart TV ,drama,0.46,4,1,5,0,,5.0,Satisfied,SD (480p),7,Low
+CUST-1454,40, female, Premium,18.99,EWALLET,2.91,Smart TV ,DRAMA,0.54,6,3,3,0,,4.4,Satisfied,4K UHD,5,Low
+CUST-1328,29, female,standard,13.99, CREDIT CARD,3.61,tablet ,Drama ,0.37,19,2,3,0,,6.3,Neutral,4K UHD,2,Moderate
+CUST-1111,46, female,standard,13.99,Bank Transfer,2.71,laptop/pc, comedy,1.75,5,2,8,0,,7.6,Neutral,FHD (1080p),48,Moderate
+CUST-1829,33,Male,basic ,8.99,EWALLET,5.39,Smart TV ,DRAMA,3.38,6,1,5,1,,2.1,Satisfied,SD (480p),24,Moderate
+CUST-1960,36,Female ,Basic,8.99,bank transfer,2.26,Smart TV ,Drama,0.23,7,1,3,0,,9.1,Neutral,HD (720p),7,Moderate
+CUST-1353,51,MALE,basic ,8.99,paylater,2.49,Smart TV ,COMEDY,0.78,4,1,6,1,,7.9,Neutral,SD (480p),10,Moderate
+CUST-1266,25,FEMALE,BASIC,8.99,paylater,3.11,Smart TV,action ,0.45,2,1,6,2,,9.6,Neutral,HD (720p),9,Moderate
+CUST-1912,16, Male,STUDENT,4.99, E-Wallet,2.63,TABLET,Comedy ,0.79,10,2,2,1,3.43,,Satisfied,HD (720p),48,Low
+CUST-1747,32,male ,premium ,18.99,Credit Card ,4.23,PC,sci-fi,2.89,3,4,4,0,,2.7,Neutral,FHD (1080p),32,Low
+CUST-1421,30,FEMALE, Premium,18.99,CreditCard,3.42,mobile,Action,2.38,14,4,7,2,,5.8,Dissatisfied,FHD (1080p),3,High
+CUST-1812,40,FEMALE ,Standard ,13.99,credit card,4.87,Smart TV,Drama ,0.16,2,2,5,2,,5.6,Dissatisfied,4K UHD,4,High
+CUST-1635,59,FEMALE,basic,8.99,credit card,3.57, Smart TV, anime,0.39,4,1,7,1,,6.8,Neutral,SD (480p),48,Moderate
+CUST-1588,25,female ,premium,18.99,E-Wallet ,3.32,TABLET,ACTION,0.43,21,4,5,0,,2.3,Neutral,FHD (1080p),48,Low
+CUST-1663,42,Male,Basic,8.99,Bank Transfer ,1.62,mobile,sci-fi,0.74,3,1,4,1,,5.6,Satisfied,HD (720p),28,Low
+CUST-1852,25,male,premium,18.99,Credit Card ,3.14,Laptop/PC,documentary,1.39,3,5,4,0,,7.6,Neutral,FHD (1080p),6,Moderate
+CUST-1138,19, Male,STANDARD,13.99,paylater,2.72,SMART TV,Anime ,0.3,5,2,9,0,,6.7,Dissatisfied,FHD (1080p),12,High
+CUST-1371,31,female ,BASIC,8.99,Ewallet,2.15,MOBILE,Action,0.38,4,1,0,0,,4.9,Very Satisfied,SD (480p),48,Low
+CUST-1382,22,female , student,4.99,e-wallet,4.4, Mobile,SciFi,0.64,12,1,6,2,3.22,,Dissatisfied,FHD (1080p),30,Moderate
+CUST-1781,31,Male,basic ,8.99,PayLater,4.64,PC,action ,1.85,7,1,7,0,,6.4,Neutral,HD (720p),8,Moderate
+CUST-1761,41,FEMALE ,Standard,13.99, E-Wallet,4.75,MOBILE,Comedy ,1.07,20,3,3,0,,5.6,Neutral,FHD (1080p),5,Moderate
+CUST-1683,39,Female,premium ,18.99,CreditCard,4.92,Smart TV ,Comedy,1.56,2,3,5,0,,7.0,Neutral,4K UHD,10,Moderate
+CUST-1848,19, Male,STUDENT,4.99,E-Wallet,5.19,Smart TV ,Comedy,0.83,8,1,5,1,3.75,,Satisfied,HD (720p),16,Moderate
+CUST-1333,36,Other ,Standard,13.99,credit card,3.11,Tablet,Anime ,0.78,16,3,3,0,,10.0,Neutral,4K UHD,16,Low
+CUST-1708,20, Male,STANDARD,13.99,Paylater ,3.48,mobile,Documentary ,2.18,20,2,9,2,,5.9,Dissatisfied,4K UHD,14,High
+CUST-1219,37,Female ,basic ,8.99,Paylater ,2.35,smart tv,Drama ,0.38,3,1,6,2,,4.5,Neutral,SD (480p),10,Moderate
+CUST-1426,41, female,basic,8.99,Bank Transfer ,3.06,Mobile,DRAMA,1.45,3,1,11,8,,6.8,Very Dissatisfied,SD (480p),15,High
+CUST-1449,19,Female, student,4.99,Credit Card ,3.45,SMART TV, Action,1.53,7,2,5,0,3.44,,Satisfied,HD (720p),3,Moderate
+CUST-1723,22,Female ,Basic,8.99,CreditCard,1.82,Tablet, Action,0.33,4,1,6,1,,7.9,Neutral,SD (480p),11,Moderate
+CUST-1363,34,Female ,Standard ,13.99,Credit Card,2.04,Smart TV ,Drama ,0.06,5,2,2,0,,7.8,Satisfied,FHD (1080p),11,Low
+CUST-1079,32,FEMALE ,premium ,18.99,bank transfer,2.5,Laptop/PC ,Documentary ,0.07,6,5,7,2,,7.8,Neutral,4K UHD,48,Low
+CUST-1030,46,FEMALE ,BASIC,8.99,Credit Card,2.98,MOBILE,DRAMA,1.35,7,1,4,0,,6.4,Satisfied,SD (480p),5,Moderate
+CUST-1944,34,female , Basic,8.99,Credit Card ,2.31,Smart TV ,ACTION,0.95,4,1,6,2,,5.5,Dissatisfied,HD (720p),4,High
+CUST-1952,32,female ,Standard ,13.99,BANK TRANSFER,4.66,mobile ,documentary,1.32,21,2,4,1,,6.0,Satisfied,FHD (1080p),22,Low
+CUST-1238,50,FEMALE ,BASIC,8.99,CreditCard,2.93,smart tv,Documentary,2.07,7,1,6,2,,5.3,Neutral,HD (720p),27,Moderate
+CUST-1653,34,male ,Standard ,13.99, PayLater,5.28, Mobile, comedy,3.71,19,3,7,2,,8.2,Neutral,4K UHD,12,Moderate
+CUST-1372,36,MALE, standard,13.99,Bank Transfer,4.36,Smart TV ,action ,0.38,6,2,4,0,,7.1,Neutral,4K UHD,11,Moderate
+CUST-1166,44,Female,standard,13.99,Credit Card ,1.88,Laptop/PC ,Drama ,0.77,2,2,3,1,,1.8,Neutral,FHD (1080p),48,Low
+CUST-1815,24,FEMALE , student,4.99,credit card,3.81,SMART TV,drama,1.47,12,2,9,3,3.02,,Very Dissatisfied,FHD (1080p),34,High
+CUST-1179,30,female ,Basic,8.99,E-Wallet ,2.26,Smart TV ,COMEDY,1.11,3,1,10,3,,6.1,Dissatisfied,HD (720p),18,High
+CUST-1479,46,FEMALE,premium,18.99,Credit Card,5.56,smart tv,Anime ,2.59,1,3,11,7,,8.4,Very Dissatisfied,4K UHD,2,High
+CUST-1066,37, female, standard,13.99,Credit Card ,5.09,smart tv,Comedy ,3.05,3,3,5,1,,5.5,Satisfied,4K UHD,2,Moderate
+CUST-1142,28,Female,premium,18.99, CREDIT CARD,4.1, Mobile,drama,1.38,23,4,7,4,,6.6,Very Dissatisfied,4K UHD,4,High
+CUST-1261,40,Female,standard,13.99,e-wallet,2.8,mobile,Drama,1.61,19,3,3,0,,6.5,Neutral,FHD (1080p),13,Low
+CUST-1865,55,male,Premium,18.99,Bank Transfer,4.29,Laptop/PC ,Comedy,0.44,3,5,2,1,,5.0,Neutral,FHD (1080p),24,Moderate
+CUST-1709,29,male ,premium ,18.99,paylater,4.55, Smart TV,SCI-FI,1.04,5,5,8,3,,9.5,Very Dissatisfied,4K UHD,26,High
+CUST-1527,16, Male,student,4.99,CreditCard,3.46,smart tv,Drama ,1.51,14,1,9,3,3.28,,Very Dissatisfied,HD (720p),8,High
+CUST-1964,35,female ,BASIC,8.99,BANK TRANSFER,2.79,Smart TV,SCI-FI,1.41,2,1,3,0,,3.6,Neutral,SD (480p),25,Low
+CUST-1262,38,male ,basic,8.99, PayLater,2.48,PC,COMEDY,1.2,5,1,7,1,,6.3,Dissatisfied,SD (480p),46,Moderate
+CUST-1478,23,Female ,Student,4.99,paylater,2.08, Smart TV,Drama,0.46,6,2,3,1,2.95,,Neutral,HD (720p),40,Low
+CUST-1324,23,female ,Student,4.99,Bank Transfer ,3.91, Smart TV,Comedy,1.99,15,1,6,3,2.75,,Dissatisfied,HD (720p),3,High
+CUST-1222,49,FEMALE,basic,8.99,Credit Card,4.3,Smart TV ,SciFi,2.31,2,1,1,0,,7.1,Very Satisfied,HD (720p),4,Moderate
+CUST-1830,23,Male,Student ,4.99,Ewallet,3.64,SMART TV,Drama ,2.57,10,1,9,1,3.4,,Dissatisfied,FHD (1080p),8,High
+CUST-1319,26,Female,BASIC,8.99, CREDIT CARD,3.87,Tablet,COMEDY,0.64,2,1,4,1,,5.6,Neutral,SD (480p),20,Moderate
+CUST-1293,39,FEMALE , Basic,8.99,E-Wallet,5.83,Mobile, Action,1.83,4,1,2,0,,7.8,Very Satisfied,SD (480p),8,Low
+CUST-1949,20,male,STUDENT,4.99,EWALLET,-2.54,SMART TV,ANIME,0.0,11,2,6,1,3.35,,Dissatisfied,FHD (1080p),5,High
+CUST-1050,23,Male,STANDARD,13.99,E-Wallet,2.49,smart tv,ANIME,0.9,6,3,4,2,,7.9,Neutral,4K UHD,39,Low
+CUST-1738,31,MALE,Standard ,13.99,credit card,3.27,TABLET, Action,2.07,11,2,6,0,,6.3,Neutral,4K UHD,15,Moderate
+CUST-1003,18, Male,Student ,4.99,Bank Transfer ,3.41,Laptop/PC,DRAMA,1.8,18,2,5,0,2.85,,Satisfied,HD (720p),24,Low
+CUST-1553,40,Female ,BASIC,8.99,PayLater,2.82, Mobile, Action,0.17,5,1,3,1,,6.4,Satisfied,SD (480p),11,Low
+CUST-1378,35,female ,standard,13.99,credit card,4.92, Mobile, comedy,0.81,16,3,7,2,,7.3,Neutral,FHD (1080p),1,High
+CUST-1917,39,female ,STANDARD,13.99,E-Wallet,2.99,MOBILE,SCI-FI,0.63,18,3,5,0,,4.5,Neutral,FHD (1080p),4,Moderate
+CUST-1545,35,female ,premium ,18.99,CreditCard,3.9,smart tv,sci-fi,1.82,7,4,5,0,,1.0,Neutral,4K UHD,1,Moderate
+CUST-1789,31,FEMALE,PREMIUM,18.99,EWALLET,4.79,Smart TV,SciFi,1.72,4,5,3,0,,7.0,Satisfied,4K UHD,16,Low
+CUST-1456,27,male,standard,13.99, CREDIT CARD,4.8,Smart TV ,Action,2.09,4,2,5,0,,6.7,Satisfied,4K UHD,3,Moderate
+CUST-1500,19,male ,STUDENT,4.99,Ewallet,3.26,Laptop/PC ,action ,1.04,12,2,3,2,3.54,,Dissatisfied,FHD (1080p),43,Moderate
+CUST-1586,48, female,Standard ,13.99,CreditCard,3.6,Smart TV,DOCUMENTARY,0.36,8,2,7,2,,6.5,Neutral,FHD (1080p),1,High
+CUST-1034,30,MALE,Standard,13.99,e-wallet,4.29,Laptop/PC,action ,1.78,6,3,4,1,,5.4,Satisfied,4K UHD,38,Low
+CUST-1032,35,Male,basic ,8.99,E-Wallet,6.29,Laptop/PC,drama,0.72,4,1,3,1,,9.5,Neutral,HD (720p),23,Moderate
+CUST-1232,28, Male, Premium,18.99,Bank Transfer ,5.27,Smart TV, anime,2.63,3,4,11,4,,5.0,Dissatisfied,4K UHD,38,High
+CUST-1759,37,FEMALE , standard,13.99,Credit Card,3.18, Smart TV,Drama,1.97,6,3,2,0,,8.7,Satisfied,4K UHD,30,Low
+CUST-1193,32,male,PREMIUM,18.99,E-Wallet,3.71,Mobile,Comedy,0.7,18,5,6,6,,6.8,Very Dissatisfied,4K UHD,7,High
+CUST-1347,29,Male,standard,13.99, E-Wallet,2.87,pc,action ,1.05,8,3,2,0,,4.9,Very Satisfied,FHD (1080p),1,Low
+CUST-1004,33,female , standard,13.99,credit card,4.0,Mobile,action ,1.18,22,2,7,2,,6.4,Dissatisfied,FHD (1080p),9,High
+CUST-1205,20,male,Basic,8.99,bank transfer,4.01,SMART TV,ANIME,2.34,7,1,5,0,,2.6,Satisfied,SD (480p),11,Low
+CUST-1670,30,FEMALE,BASIC,8.99,EWALLET,3.45,smart tv,Action,0.96,4,1,6,2,,9.4,Dissatisfied,HD (720p),11,High
+CUST-1584,47,FEMALE ,standard,13.99,Ewallet,3.84,Smart TV,DRAMA,1.28,8,3,4,0,,5.3,Satisfied,4K UHD,6,Low
+CUST-1320,20,other,STUDENT,4.99,CreditCard,5.68,mobile,SCI-FI,3.22,8,2,3,0,3.5,,Satisfied,FHD (1080p),7,Low
+CUST-1078,28,Male, standard,13.99, PayLater,2.27,Smart TV,Anime,0.49,1,3,5,0,,6.3,Neutral,FHD (1080p),32,Low
+CUST-1085,26,MALE,Premium,-18.99,Bank Transfer ,5.81,SMART TV, Action,1.89,3,4,5,1,,7.2,Neutral,4K UHD,4,High
+CUST-1300,24,Male,STUDENT,4.99,PAYLATER,3.38, Tablet, comedy,0.36,7,2,7,4,3.21,,Very Dissatisfied,HD (720p),16,High
+CUST-1083,31, female,premium ,18.99,Credit Card,3.35,Smart TV,SCI-FI,1.42,3,5,5,0,,8.1,Neutral,4K UHD,23,Moderate
+CUST-1362,27,Male ,Premium,18.99,BANK TRANSFER,3.81,Mobile,Drama ,1.74,14,5,5,1,,4.9,Neutral,FHD (1080p),18,Moderate
+CUST-1381,19, female, student,4.99, CREDIT CARD,3.25, Mobile,ACTION,0.67,15,1,2,1,2.53,,Neutral,HD (720p),5,High
+CUST-1834,25,FEMALE,basic ,8.99,Paylater ,4.17,SMART TV,drama,1.57,8,1,3,0,,7.4,Satisfied,SD (480p),2,Moderate
+CUST-1528,44,female ,Basic,8.99,Credit Card ,1.61,MOBILE, comedy,1.16,2,1,6,0,,8.6,Neutral,SD (480p),18,Moderate
+CUST-1784,43,male,basic,8.99,Credit Card ,3.91, Mobile,Drama,0.33,7,1,5,0,,6.2,Satisfied,SD (480p),38,Low
+CUST-1688,25,male,Standard ,13.99, E-Wallet,6.21,mobile,Drama,0.83,18,2,8,4,,4.0,Dissatisfied,4K UHD,10,High
+CUST-1290,20, female,STUDENT,4.99,paylater,5.32, Mobile, comedy,0.47,14,2,2,0,2.58,,Very Satisfied,HD (720p),6,Low
+CUST-1006,47,Female , Premium,18.99,PayLater,2.58,mobile,DOCUMENTARY,0.74,15,5,4,0,,9.6,Satisfied,FHD (1080p),1,Moderate
+CUST-1972,23,FEMALE,Standard ,13.99,E-Wallet,5.47,PC,sci-fi,1.98,5,2,7,3,,6.2,Very Dissatisfied,4K UHD,9,High
+CUST-1484,34,female ,Standard ,13.99,EWALLET,2.52,laptop/pc,SciFi,1.62,3,3,1,1,,5.4,Neutral,FHD (1080p),5,Moderate
+CUST-1098,34, female,standard,13.99,Ewallet,3.5,laptop/pc,Drama,0.74,1,2,8,2,,7.6,Dissatisfied,FHD (1080p),4,High
+CUST-1452,39,male,basic,8.99,E-Wallet,5.2,Smart TV, anime,2.85,4,1,2,0,,5.0,Satisfied,HD (720p),1,Moderate
+CUST-1679,33,Female, Basic,8.99, CREDIT CARD,4.62,Smart TV ,Drama,2.78,3,1,7,3,,8.8,Dissatisfied,HD (720p),36,High
+CUST-1881,35,MALE,Basic,8.99,paylater,3.26,Laptop/PC ,Drama,0.17,4,1,12,4,,4.5,Dissatisfied,SD (480p),10,High
+CUST-1267,31, female,Basic,8.99,bank transfer,2.92,smart tv,sci-fi,1.52,1,1,3,0,,4.4,Satisfied,SD (480p),48,Low
+CUST-1437,33,FEMALE,BASIC,8.99,E-Wallet,4.46, Smart TV,Sci-Fi,2.97,3,1,7,3,,9.2,Dissatisfied,SD (480p),38,High
+CUST-1440,17,male,STUDENT,4.99,Credit Card ,2.46,pc,Drama ,1.18,15,1,10,2,2.24,,Very Dissatisfied,HD (720p),1,High
+CUST-1315,25,Male ,STANDARD,13.99,CreditCard,2.44,Smart TV,ACTION,1.5,3,2,3,0,,3.8,Neutral,4K UHD,8,Low
+CUST-1828,47,FEMALE, standard,13.99,Bank Transfer ,3.38,Smart TV,action ,0.23,5,2,2,1,,5.9,Satisfied,4K UHD,36,Low
+CUST-1937,20,Female,BASIC,8.99,paylater,2.78,SMART TV,SCI-FI,1.65,2,1,4,0,,8.6,Satisfied,HD (720p),35,Low
+CUST-1119,24,FEMALE ,Standard ,13.99,credit card,3.78,pc,ACTION,2.18,2,3,5,1,,8.1,Neutral,4K UHD,20,Moderate
+CUST-1383,38,male, Premium,18.99, E-Wallet,4.62, Mobile,Drama,2.76,15,4,2,0,,8.6,Satisfied,4K UHD,3,Low
+CUST-1251,21,male,Student ,4.99,paylater,3.25,pc,Drama,0.87,8,2,5,1,3.88,,Neutral,FHD (1080p),48,Moderate
+CUST-1450,20,Male,Standard ,13.99,PayLater,2.31,Laptop/PC ,SciFi,1.45,2,3,7,1,,8.2,Neutral,FHD (1080p),3,High
+CUST-1448,44,male,basic,8.99,Ewallet,5.17,mobile,Anime ,3.86,7,1,7,2,,2.6,Dissatisfied,SD (480p),8,High
+CUST-1010,33, Male,basic ,8.99,Bank Transfer ,3.22,Tablet,Comedy,1.15,5,1,3,1,,6.8,Satisfied,SD (480p),12,Low
+CUST-1197,36,Male,basic ,8.99,BANK TRANSFER,4.39,Smart TV , comedy,3.04,5,1,9,2,,6.8,Dissatisfied,SD (480p),5,High
+CUST-1614,25,FEMALE ,Standard,13.99,E-Wallet,2.17, Tablet,Comedy,0.56,20,2,8,1,,7.1,Neutral,FHD (1080p),48,Moderate
+CUST-1082,42, Male,BASIC,8.99,EWALLET,5.1,SMART TV,COMEDY,2.78,6,1,5,1,,6.7,Neutral,SD (480p),4,High
+CUST-1890,32,Male ,basic,499.0,BANK TRANSFER,3.47,Mobile,SCI-FI,1.71,5,1,4,1,,2.7,Satisfied,SD (480p),19,Moderate
+CUST-1495,36,Male,Standard ,13.99,paylater,2.8,Tablet,Drama ,1.81,19,3,3,3,,8.7,Dissatisfied,FHD (1080p),8,High
+CUST-1630,48, Male, standard,13.99,PAYLATER,5.25,MOBILE, Action,1.87,17,2,7,4,,4.7,Very Dissatisfied,4K UHD,42,High
+CUST-1240,28,Male,premium,18.99, CREDIT CARD,2.8,smart tv, Action,0.92,5,4,5,0,,7.3,Neutral,4K UHD,21,Moderate
+CUST-1971,27,FEMALE ,basic ,-8.99,CreditCard,2.07,tablet,Comedy,0.61,1,1,5,1,,6.5,Satisfied,SD (480p),5,Moderate
+CUST-1212,21,male,Student ,4.99,Ewallet,1.71,tablet,action ,0.63,16,1,9,1,2.96,,Dissatisfied,HD (720p),5,High
+CUST-1729,33,Female ,Standard ,13.99,CreditCard,3.22,Smart TV,ACTION,1.4,4,3,5,2,,6.0,Dissatisfied,FHD (1080p),7,High
+CUST-1825,35,Female ,basic,8.99,Bank Transfer ,1.8,Smart TV,ACTION,1.22,5,1,4,0,,8.2,Neutral,HD (720p),13,Moderate
+CUST-1418,21,Female,Student ,4.99,E-Wallet ,2.17,PC, anime,0.79,12,1,1,0,2.84,,Very Satisfied,HD (720p),11,Low
+CUST-1228,20,female , Basic,8.99,CreditCard,1.86,Mobile,action ,1.25,4,1,4,1,,5.1,Neutral,SD (480p),8,Moderate
+CUST-1869,24,female ,Standard ,13.99,paylater,1.99,mobile ,Drama ,0.06,19,3,7,4,,3.8,Very Dissatisfied,FHD (1080p),12,High
+CUST-1585,35,male,premium,18.99, CREDIT CARD,2.51,smart tv,action ,0.57,1,5,5,0,,7.9,Neutral,4K UHD,46,Low
+CUST-1809,36,FEMALE ,Premium,18.99,Bank Transfer,2.55,MOBILE,Action,0.15,14,3,5,0,,7.6,Satisfied,FHD (1080p),26,Low
+CUST-1178,35,female ,standard,13.99,Credit Card,2.92,Mobile,Drama,2.06,24,3,4,0,,10.0,Neutral,FHD (1080p),4,Moderate
+CUST-1468,36,Male, standard,13.99, CREDIT CARD,3.79,mobile ,Action,1.36,21,3,4,0,,6.9,Neutral,FHD (1080p),5,Moderate
+CUST-1508,36,FEMALE,STANDARD,13.99,bank transfer,1.5, Smart TV,Drama ,0.83,5,3,3,0,,7.9,Neutral,4K UHD,7,Low
+CUST-1487,28,Female ,premium ,18.99, E-Wallet,4.96, Smart TV,Sci-Fi,1.69,6,4,7,2,,7.4,Neutral,4K UHD,4,High
+CUST-1329,52,MALE, Premium,18.99,Credit Card ,4.75,Smart TV,documentary,2.98,5,5,9,0,,7.2,Neutral,4K UHD,5,High
+CUST-1752,25, female,standard,13.99,E-Wallet,2.38,Smart TV,action ,0.92,3,3,12,3,,5.8,Very Dissatisfied,4K UHD,4,High
+CUST-1008,17,male ,Student,4.99,Credit Card ,3.11,MOBILE, Action,1.27,5,1,2,1,2.3,,Neutral,HD (720p),20,Moderate
+CUST-1156,23,Male,premium ,18.99,E-Wallet ,4.02, Smart TV, Action,1.97,6,4,0,0,,6.1,Satisfied,4K UHD,27,Low
+CUST-1550,33,MALE,BASIC,8.99, CREDIT CARD,4.51,mobile ,Drama,0.22,6,1,2,1,,6.9,Neutral,HD (720p),18,Moderate
+CUST-1552,39,FEMALE ,PREMIUM,18.99,BANK TRANSFER,2.48,Smart TV,SciFi,0.85,6,3,6,2,,7.6,Dissatisfied,4K UHD,28,Moderate
+CUST-1501,38,FEMALE,premium,18.99,E-Wallet,3.71,smart tv,Comedy,0.75,3,3,7,3,,5.1,Very Dissatisfied,4K UHD,5,High
+CUST-1990,35,Female,PREMIUM,18.99,E-Wallet ,1.48,tablet,Action,0.73,16,4,6,2,,6.1,Dissatisfied,FHD (1080p),48,Moderate
+CUST-1790,38,FEMALE,premium ,18.99,Credit Card,3.51,Smart TV ,Drama,0.82,2,4,2,0,,5.0,Satisfied,4K UHD,4,Low
+CUST-1583,40, Other,Basic,8.99,Credit Card ,1.75,PC,SciFi,1.11,3,1,3,0,,6.1,Satisfied,SD (480p),10,Low
+CUST-1921,20,Female ,Student,4.99, CREDIT CARD,1.71,Smart TV ,ACTION,0.64,7,1,7,1,3.45,,Dissatisfied,FHD (1080p),21,High
+CUST-1814,36,FEMALE,PREMIUM,18.99,e-wallet,1.66,SMART TV,Comedy ,0.99,6,3,9,4,,8.6,Very Dissatisfied,4K UHD,7,High
+CUST-1948,43,Male,Standard,13.99, CREDIT CARD,3.01,Laptop/PC,COMEDY,2.07,3,3,3,1,,6.9,Satisfied,FHD (1080p),34,Low
+CUST-1576,40,FEMALE, Basic,8.99,BANK TRANSFER,1.71,Smart TV,DRAMA,0.83,4,1,2,0,,4.5,Very Satisfied,SD (480p),8,Low
+CUST-1434,32,Male ,Standard,13.99,E-Wallet ,4.35,smart tv,drama,1.5,1,2,6,1,,8.5,Dissatisfied,FHD (1080p),16,High
+CUST-1539,17,male, student,4.99, PayLater,5.97,SMART TV,Drama ,2.11,9,1,5,0,3.92,,Satisfied,HD (720p),35,Low
+CUST-1592,25, female,standard,13.99,Ewallet,2.63, Mobile,Anime ,1.52,28,3,5,2,,7.2,Dissatisfied,FHD (1080p),35,Moderate
+CUST-1719,24,MALE,Student ,4.99,bank transfer,3.2, Smart TV,action ,2.14,14,1,9,2,3.35,,Dissatisfied,FHD (1080p),48,High
+CUST-1466,28,Male, standard,13.99,e-wallet,3.32, Smart TV,COMEDY,0.08,4,2,7,1,,10.0,Neutral,4K UHD,4,High
+CUST-1775,31,female ,Premium,18.99,credit card,4.96,mobile ,ANIME,0.82,21,5,7,2,,7.4,Dissatisfied,FHD (1080p),24,High
+CUST-1229,41,female ,basic ,8.99,EWALLET,1.67,SMART TV,DRAMA,0.19,8,1,9,1,,3.5,Neutral,SD (480p),17,High
+CUST-1443,16,Male,Student ,4.99,credit card,2.48,SMART TV,Sci-Fi,1.8,14,1,4,0,3.5,,Neutral,HD (720p),34,Low
+CUST-1740,31,FEMALE,Basic,8.99,Bank Transfer,3.12,Mobile,Drama ,0.14,4,1,6,2,,6.2,Dissatisfied,SD (480p),3,High
+CUST-1213,37, female,PREMIUM,18.99,BANK TRANSFER,2.64,Tablet,ANIME,1.84,19,4,4,1,,3.3,Neutral,FHD (1080p),35,Low
+CUST-1080,22,FEMALE,basic ,8.99,E-Wallet ,4.48,mobile,drama,3.1,1,1,7,2,,6.5,Neutral,HD (720p),9,Moderate
+CUST-1149,37,FEMALE ,STANDARD,13.99, CREDIT CARD,3.18,Smart TV ,SCI-FI,2.28,3,2,1,2,,8.6,Neutral,FHD (1080p),10,Moderate
+CUST-1303,41, female, standard,13.99,CreditCard,3.91,Mobile,Anime ,2.69,20,2,6,1,,9.8,Neutral,FHD (1080p),1,High
+CUST-1568,35,FEMALE ,BASIC,8.99, CREDIT CARD,2.34,mobile,documentary,0.61,5,1,2,1,,6.9,Neutral,HD (720p),36,Low
+CUST-1989,23, Male, Premium,18.99,CreditCard,3.83,Smart TV ,Action,1.01,8,4,5,0,,6.0,Neutral,4K UHD,7,Moderate
+CUST-1886,43,male, Premium,18.99,Credit Card,3.74,Smart TV ,Comedy,2.8,2,5,8,1,,3.7,Dissatisfied,4K UHD,29,High
+CUST-1656,28,Male ,BASIC,8.99,Credit Card,2.44,PC,Drama ,0.99,3,1,4,1,,7.2,Satisfied,HD (720p),7,Moderate
+CUST-1779,23,male ,student,4.99,credit card,3.22,MOBILE,sci-fi,2.01,12,2,7,1,2.63,,Neutral,FHD (1080p),7,Moderate
+CUST-1352,42,male ,STANDARD,13.99, CREDIT CARD,2.52,SMART TV,Anime ,1.68,3,2,7,0,,8.2,Neutral,4K UHD,17,Moderate
+CUST-1134,19,Male, student,4.99, E-Wallet,2.7,smart tv,Comedy ,1.08,11,1,3,0,3.34,,Satisfied,HD (720p),9,Low
+CUST-1559,17,Male,student,4.99, E-Wallet,3.55,MOBILE,Comedy,1.86,12,1,3,0,2.51,,Neutral,FHD (1080p),48,Low
+CUST-1312,25,FEMALE,premium ,18.99,CreditCard,3.79,Smart TV,action ,1.3,4,5,2,0,,10.0,Very Satisfied,4K UHD,28,Low
+CUST-1617,29, Male,STANDARD,13.99,Credit Card ,5.17, Smart TV,DRAMA,0.63,3,3,7,2,,7.2,Dissatisfied,FHD (1080p),48,Moderate
+CUST-1997,30,male ,premium ,18.99,Ewallet,2.67,Laptop/PC ,Comedy,0.68,5,5,5,0,,9.1,Neutral,4K UHD,12,Moderate
+CUST-1801,25,male,standard,13.99,Credit Card,2.58,Smart TV ,ACTION,1.66,5,2,4,1,,7.4,Satisfied,FHD (1080p),21,Low
+CUST-1001,38, female,standard,13.99,Bank Transfer ,2.46,Smart TV ,ACTION,1.6,5,3,5,0,,7.2,Neutral,FHD (1080p),5,Moderate
+CUST-1317,43,Male, standard,13.99,Credit Card,3.77,smart tv,Comedy ,1.41,6,2,5,1,,4.9,Satisfied,4K UHD,48,Low
+CUST-1718,25, Male,premium ,18.99,Credit Card,2.66, Mobile,Drama ,1.3,19,5,8,0,,5.2,Satisfied,4K UHD,2,Moderate
+CUST-1807,25,Female,premium,18.99,Credit Card ,3.55,Smart TV ,Drama ,1.84,4,3,7,1,,4.4,Dissatisfied,4K UHD,3,High
+CUST-1358,45,FEMALE ,basic,8.99,Credit Card ,3.94,smart tv,Anime,1.89,4,1,6,3,,6.1,Very Dissatisfied,SD (480p),11,High
+CUST-1823,27,Female ,basic ,8.99,E-Wallet,3.76, Mobile,DRAMA,2.59,2,1,8,0,,8.6,Neutral,HD (720p),13,High
+CUST-1496,35,FEMALE ,standard,13.99, CREDIT CARD,3.84, Mobile,Anime ,0.2,20,2,6,1,,6.3,Neutral,4K UHD,12,Moderate
+CUST-1389,22, female,STUDENT,4.99,credit card,2.06,SMART TV, Action,0.07,6,2,2,1,3.74,,Neutral,HD (720p),12,Moderate
+CUST-1173,25,Female,Standard,13.99,Ewallet,3.77, Tablet,ANIME,0.62,25,2,6,0,,6.3,Satisfied,4K UHD,33,Low
+CUST-1126,29, Male,Standard ,13.99,e-wallet,2.44, Smart TV, Action,1.18,5,3,3,2,,7.2,Dissatisfied,FHD (1080p),2,High
+CUST-1412,40,MALE, standard,13.99,credit card,3.35,smart tv,Action,0.25,8,2,7,3,,7.2,Dissatisfied,4K UHD,6,High
+CUST-1785,19,FEMALE,student,4.99,paylater,3.0,pc,action ,1.04,10,1,4,0,2.17,,Satisfied,FHD (1080p),18,Low
+CUST-1977,43,Female,premium ,18.99,PAYLATER,2.23,Smart TV ,drama,0.54,4,4,3,1,,7.6,Neutral,4K UHD,17,Moderate
+CUST-1916,21,Female, standard,13.99,CreditCard,4.33,mobile ,Sci-Fi ,1.57,19,2,6,3,,8.0,Very Dissatisfied,4K UHD,48,High
+CUST-1091,43,Male,PREMIUM,18.99,E-Wallet,1.61,Smart TV,DRAMA,0.75,3,5,10,3,,6.9,Dissatisfied,4K UHD,29,High
+CUST-1953,16,Female ,Student ,4.99,Ewallet,2.42, Smart TV,sci-fi,0.83,8,1,5,2,3.45,,Neutral,FHD (1080p),3,High
+CUST-1182,20,male , Basic,8.99,Credit Card,5.1,mobile,Action,2.44,3,1,3,0,,5.0,Satisfied,SD (480p),1,Moderate
+CUST-1364,25,FEMALE, standard,13.99,Paylater ,4.98,mobile,DRAMA,0.67,19,2,8,3,,10.0,Dissatisfied,4K UHD,1,High
+CUST-1275,16,Male ,Standard ,13.99,credit card,2.55,MOBILE,Drama ,0.37,12,3,2,0,,6.3,Very Satisfied,FHD (1080p),19,Low
+CUST-1908,17,Female ,Standard,13.99,E-Wallet,5.14,laptop/pc, anime,2.24,5,3,3,0,,7.0,Satisfied,4K UHD,2,Low
+CUST-1070,31,FEMALE ,Standard,13.99,e-wallet,2.9,mobile,Drama,1.69,14,2,5,0,,8.5,Satisfied,4K UHD,12,Low
+CUST-1292,22,MALE, student,4.99,Credit Card,1.85,tablet, comedy,0.93,20,1,7,5,3.6,,Very Dissatisfied,HD (720p),25,High
+CUST-1132,37,Other,basic,8.99,bank transfer,4.04,smart tv,COMEDY,2.26,4,1,7,1,,8.4,Neutral,SD (480p),7,Moderate
+CUST-1301,40,Female,standard,13.99,Credit Card,4.29, Mobile, Action,2.1,22,3,6,0,,9.9,Neutral,4K UHD,6,Moderate
+CUST-1523,27, Male,STANDARD,13.99,Bank Transfer,4.46,mobile , anime,0.8,21,2,5,0,,7.9,Satisfied,FHD (1080p),48,Low
+CUST-1327,35,Female,STANDARD,13.99, CREDIT CARD,5.76, Smart TV,Drama,2.3,0,2,9,4,,8.6,Dissatisfied,FHD (1080p),23,High
+CUST-1145,23,FEMALE,Standard,13.99,Credit Card ,4.53,mobile,SCI-FI,2.32,17,3,4,2,,3.8,Neutral,FHD (1080p),8,Moderate
+CUST-1441,39,FEMALE,premium,18.99,Ewallet,2.08,mobile,Sci-Fi,0.95,21,4,6,0,,8.3,Neutral,FHD (1080p),31,Low
+CUST-1591,34,Female ,STANDARD,-13.99,PAYLATER,3.74,MOBILE,DRAMA,2.72,21,2,9,1,,5.9,Dissatisfied,4K UHD,5,High
+CUST-1651,24,Female ,premium,18.99,Bank Transfer ,2.99,smart tv, Action,1.31,5,4,3,1,,6.8,Satisfied,4K UHD,24,Low
+CUST-1136,16,Female , Premium,18.99,credit card,4.46,laptop/pc, anime,2.36,3,3,5,0,,4.8,Neutral,4K UHD,20,Moderate
+CUST-1425,43,Female ,basic ,8.99,Credit Card ,3.59,laptop/pc,SciFi,1.94,4,1,9,3,,4.9,Very Dissatisfied,HD (720p),19,High
+CUST-1165,25, female,standard,13.99,Credit Card,4.43, Mobile,ACTION,0.6,22,2,6,1,,7.1,Dissatisfied,FHD (1080p),10,High
+CUST-1029,25,female ,STANDARD,13.99,Credit Card,3.55, Smart TV,Drama,2.1,2,3,3,0,,9.7,Neutral,4K UHD,45,Low
+CUST-1571,33,male,basic ,8.99,E-Wallet,3.84,laptop/pc, Action,0.84,3,1,2,0,,7.9,Satisfied,SD (480p),5,Moderate
+CUST-1194,17,Male,Student,4.99,PayLater,5.2,Smart TV,Comedy ,1.82,17,1,3,1,3.49,,Satisfied,FHD (1080p),17,Low
+CUST-1405,29,Male ,PREMIUM,18.99, E-Wallet,2.88,SMART TV,drama,1.28,2,4,1,0,,6.3,Satisfied,4K UHD,48,Low
+CUST-1883,32, Male,PREMIUM,18.99,Bank Transfer,2.9, Mobile,Action,1.03,22,4,7,3,,7.8,Dissatisfied,FHD (1080p),11,High
+CUST-1170,27,MALE,basic,8.99,PAYLATER,3.41,SMART TV, comedy,0.25,2,1,7,1,,7.5,Neutral,HD (720p),15,Moderate
+CUST-1507,41,Male,premium ,18.99,E-Wallet ,5.23,TABLET,sci-fi,3.46,21,4,4,0,,8.8,Neutral,4K UHD,37,Low
+CUST-1141,32, Other,Standard ,13.99,Credit Card ,3.96,tablet ,DRAMA,2.75,27,3,6,3,,6.9,Very Dissatisfied,4K UHD,44,High
+CUST-1174,39,Other ,STANDARD,13.99,CreditCard,5.48,mobile,action ,1.13,18,3,4,0,,5.9,Neutral,FHD (1080p),48,Low
+CUST-1007,22,Female , Basic,8.99,E-Wallet,3.66,pc,DOCUMENTARY,1.05,4,1,1,1,,9.1,Satisfied,HD (720p),2,Moderate
+CUST-1698,25,Female ,Standard ,13.99,Credit Card ,3.45,tablet, Action,1.07,13,3,6,2,,6.5,Dissatisfied,FHD (1080p),11,High
+CUST-1517,28,Female, standard,13.99,credit card,4.96,tablet, anime,0.65,12,2,4,0,,10.0,Neutral,4K UHD,21,Moderate
+CUST-1074,23,male ,student,4.99,Credit Card ,4.78, Mobile,Documentary,2.63,8,1,5,0,3.48,,Satisfied,HD (720p),1,Moderate
+CUST-1694,23,FEMALE , student,4.99,Credit Card ,3.8,PC,Comedy,2.15,12,1,5,0,2.18,,Neutral,FHD (1080p),2,High
+CUST-1533,45,MALE, standard,13.99,BANK TRANSFER,1.51,smart tv,Drama,0.3,7,2,5,2,,9.3,Dissatisfied,4K UHD,6,High
+CUST-1239,33,MALE,standard,13.99,Credit Card,3.65,Tablet,DOCUMENTARY,1.34,16,2,3,2,,5.5,Dissatisfied,4K UHD,6,Moderate
+CUST-1146,50, female,BASIC,8.99,paylater,3.23,smart tv,Documentary,0.1,4,1,1,0,,7.7,Satisfied,SD (480p),16,Low
+CUST-1804,40,Female,standard,999.0,Ewallet,4.76,Laptop/PC ,Sci-Fi ,0.45,4,2,10,4,,3.4,Very Dissatisfied,FHD (1080p),36,High
+CUST-1235,22, Male,BASIC,8.99,PAYLATER,2.56,TABLET,Anime ,1.74,3,1,6,6,,4.5,Very Dissatisfied,SD (480p),7,High
+CUST-1221,24,female , Basic,8.99,credit card,4.12,SMART TV,Documentary,2.82,5,1,5,1,,7.7,Satisfied,SD (480p),8,Moderate
+CUST-1494,31,Male, standard,13.99, E-Wallet,3.0,smart tv,Sci-Fi,1.43,3,3,7,1,,7.2,Dissatisfied,4K UHD,14,High
+CUST-1669,31,FEMALE ,premium ,18.99,EWALLET,3.72,SMART TV,ANIME,1.03,4,4,3,2,,6.9,Neutral,4K UHD,6,Moderate
+CUST-1133,35,Other,Premium,18.99,credit card,5.55,Smart TV ,Drama,3.01,3,4,3,0,,7.4,Satisfied,4K UHD,3,Low
+CUST-1377,44,FEMALE , Premium,18.99,EWALLET,5.37,mobile ,documentary,2.16,23,5,9,2,,6.4,Dissatisfied,FHD (1080p),2,High
+CUST-1938,20,Male,student,4.99,bank transfer,4.11,Smart TV ,DRAMA,0.62,11,2,5,0,2.59,,Neutral,FHD (1080p),7,Moderate
+CUST-1666,39,male , Basic,8.99,Ewallet,4.53,PC,Drama,1.23,5,1,4,1,,4.9,Neutral,SD (480p),10,Moderate
+CUST-1186,-27,OTHER, Premium,18.99, CREDIT CARD,2.28,mobile ,Action,0.22,14,5,4,0,,9.6,Neutral,FHD (1080p),14,Moderate
+CUST-1042,49,FEMALE ,Premium,18.99,credit card,1.46,Laptop/PC,Documentary ,0.55,6,4,7,2,,6.5,Dissatisfied,4K UHD,10,High
+CUST-1621,39,Female ,standard,13.99,PAYLATER,3.8,laptop/pc,drama,1.42,3,2,6,1,,8.7,Neutral,4K UHD,48,Low
+CUST-1109,33,male,premium ,18.99,Credit Card,2.96,Smart TV ,action ,1.08,7,4,4,0,,7.4,Neutral,4K UHD,15,Moderate
+CUST-1599,30,FEMALE , Premium,18.99,Credit Card ,1.58,mobile, anime,0.34,19,5,2,0,,7.4,Satisfied,FHD (1080p),20,Low
+CUST-1057,34, Male, Premium,18.99,E-Wallet,3.37,mobile,action ,1.18,26,5,14,8,,6.9,Dissatisfied,FHD (1080p),21,High
+CUST-1423,33,male,PREMIUM,18.99,Bank Transfer ,3.33,mobile ,sci-fi,0.97,16,4,2,1,,4.6,Satisfied,4K UHD,11,Low
+CUST-1657,47,male,Standard ,13.99,EWALLET,5.61,Smart TV ,Drama ,1.78,3,3,3,1,,3.8,Satisfied,FHD (1080p),17,Low
+CUST-1907,40,Female,Standard,13.99,credit card,2.07,Laptop/PC ,ACTION,1.11,6,2,8,0,,6.3,Neutral,FHD (1080p),17,Moderate
+CUST-1873,30,Male, Premium,18.99,Credit Card ,1.58,SMART TV, anime,0.71,5,3,5,0,,6.2,Satisfied,4K UHD,36,Low
+CUST-1025,30,Male,premium ,18.99,Bank Transfer,4.87, Smart TV,Action,0.31,4,5,4,1,,8.3,Satisfied,4K UHD,17,Low
+CUST-1544,22,FEMALE , Basic,8.99,e-wallet,4.04,Smart TV ,action ,0.89,6,1,7,1,,7.2,Dissatisfied,HD (720p),11,High
+CUST-1905,33,male ,Premium,18.99, CREDIT CARD,3.41,mobile,Drama ,1.85,23,3,9,3,,6.6,Very Dissatisfied,FHD (1080p),48,High
+CUST-1540,35,FEMALE ,STANDARD,13.99, PayLater,4.24, Smart TV,DRAMA,0.39,9,3,6,2,,7.0,Neutral,FHD (1080p),8,Moderate
+CUST-1629,21,Female ,basic,8.99,credit card,4.2,Laptop/PC,DOCUMENTARY,2.22,4,1,4,0,,5.6,Satisfied,HD (720p),1,Moderate
+CUST-1705,34, female,Standard ,13.99, E-Wallet,3.4,laptop/pc,Action,1.41,2,2,2,1,,8.3,Satisfied,FHD (1080p),48,Low
+CUST-1940,34,Male , Basic,8.99,e-wallet,5.65,smart tv, Action,1.96,5,1,3,0,,5.1,Satisfied,HD (720p),35,Low
+CUST-1339,28,MALE,standard,13.99,paylater,2.88,smart tv,drama,0.95,4,3,3,1,,5.7,Satisfied,FHD (1080p),15,Low
+CUST-1052,25, Male,standard,13.99,Credit Card,3.5,Mobile,Documentary ,0.37,15,2,6,1,,4.7,Dissatisfied,4K UHD,11,High
+CUST-1384,36,Female ,Basic,8.99,BANK TRANSFER,1.39, Mobile,drama,0.71,4,1,4,3,,9.2,Dissatisfied,HD (720p),48,High
+CUST-1524,38,male,Standard ,13.99,BANK TRANSFER,2.28,Smart TV , comedy,0.19,4,2,6,2,,7.0,Neutral,FHD (1080p),22,Moderate
+CUST-1934,49,Female,premium ,18.99,E-Wallet,4.14, Mobile,Comedy,0.24,14,4,5,0,,5.9,Neutral,4K UHD,19,Moderate
+CUST-1849,33,MALE,basic,8.99,Credit Card ,4.61,mobile ,action ,1.74,1,1,2,0,,5.7,Very Satisfied,HD (720p),32,Low
+CUST-1265,28,Male ,PREMIUM,18.99,Credit Card,2.24,Smart TV,Documentary,0.65,1,3,2,0,,8.6,Satisfied,4K UHD,8,Low
+CUST-1546,31,Female ,standard,13.99,Credit Card ,3.78, Mobile, comedy,2.27,10,3,2,1,,8.2,Satisfied,FHD (1080p),24,Low
+CUST-1722,18,male, student,4.99,Ewallet,5.33,Tablet, Action,2.75,10,1,1,0,2.31,,Very Satisfied,HD (720p),29,Low
+CUST-1693,29,Male , standard,13.99,E-Wallet,5.28,PC,Action,3.8,2,2,6,2,,4.0,Neutral,FHD (1080p),41,Low
+CUST-1396,33,Female ,basic,8.99,Bank Transfer ,5.92,mobile ,Comedy,0.17,2,1,6,2,,6.5,Neutral,SD (480p),6,Moderate
+CUST-1526,49,female ,standard,13.99, CREDIT CARD,2.37,Smart TV , anime,1.67,1,2,3,0,,7.1,Satisfied,FHD (1080p),34,Low
+CUST-1465,30,OTHER,Standard ,13.99, CREDIT CARD,2.04,Smart TV ,Comedy,1.18,1,3,10,0,,6.9,Dissatisfied,FHD (1080p),20,High
+CUST-1019,22,MALE,basic,8.99,EWALLET,3.53,Smart TV ,Documentary,0.19,3,1,7,2,,8.3,Neutral,HD (720p),11,Moderate
+CUST-1909,17,FEMALE,BASIC,8.99,Credit Card,4.22,pc, Action,0.86,2,1,5,0,,6.5,Satisfied,HD (720p),5,Moderate
+CUST-1502,21,Female , student,4.99, E-Wallet,4.85,SMART TV,action ,3.44,19,1,3,0,2.57,,Satisfied,HD (720p),28,Low
+CUST-1577,43,Male , standard,13.99,Bank Transfer,4.69, Mobile, comedy,1.45,14,2,4,0,,9.0,Neutral,FHD (1080p),11,Moderate
+CUST-1451,41, Male,basic,8.99, CREDIT CARD,4.06,Laptop/PC, comedy,0.85,1,1,7,2,,3.0,Dissatisfied,HD (720p),8,High
+CUST-1368,48,Male,Premium,18.99,e-wallet,4.31,Smart TV,SciFi,2.53,4,4,6,5,,9.3,Dissatisfied,4K UHD,8,High
+CUST-1084,33, female,basic,8.99,E-Wallet ,3.46, Smart TV, Action,0.16,2,1,4,0,,7.8,Satisfied,SD (480p),1,Moderate
+CUST-1062,23,MALE,Standard ,13.99,Credit Card,1.87,Mobile,action ,1.04,27,2,5,3,,5.4,Dissatisfied,FHD (1080p),20,High
+CUST-1939,36,FEMALE,STANDARD,13.99,Bank Transfer ,4.67,Smart TV ,ANIME,2.32,5,2,5,1,,8.9,Neutral,4K UHD,1,High
+CUST-1273,18,Female ,Premium,18.99,BANK TRANSFER,1.7,Mobile,COMEDY,0.94,20,5,4,1,,5.6,Satisfied,4K UHD,10,Low
+CUST-1286,43, Male,STANDARD,13.99,paylater,1.62,pc,Anime,0.05,3,3,3,0,,8.9,Satisfied,FHD (1080p),4,Low
+CUST-1361,41,Other , Basic,8.99,Credit Card ,3.98,smart tv,Drama,2.8,4,1,4,1,,7.5,Satisfied,SD (480p),7,Moderate
+CUST-1355,43, female, Basic,8.99,Credit Card,2.3,SMART TV,SCI-FI,1.33,3,1,4,1,,6.5,Neutral,SD (480p),48,Moderate
+CUST-1515,30,Male,PREMIUM,18.99, CREDIT CARD,3.68,mobile ,COMEDY,1.71,14,5,2,1,,6.1,Neutral,4K UHD,15,Moderate
+CUST-1279,35,male, Premium,18.99,Ewallet,4.4,mobile,Anime ,0.21,13,3,5,2,,5.6,Dissatisfied,FHD (1080p),25,Moderate
+CUST-1013,41,female ,standard,13.99,Bank Transfer,2.92,laptop/pc,action ,2.02,2,3,9,1,,6.4,Dissatisfied,FHD (1080p),10,High
+CUST-1183,16,FEMALE, standard,13.99,bank transfer,1.7,MOBILE,ACTION,0.9,24,2,7,3,,10.0,Dissatisfied,FHD (1080p),47,High
+CUST-1369,25,FEMALE,premium,18.99,Bank Transfer ,4.67,PC,Comedy,1.22,4,5,8,4,,6.0,Very Dissatisfied,FHD (1080p),9,High
+CUST-1904,40,FEMALE, standard,13.99,credit card,3.82,pc,COMEDY,2.4,6,3,3,1,,9.9,Neutral,FHD (1080p),11,Moderate
+CUST-1626,25, female,premium ,18.99,EWALLET,3.02,Smart TV ,COMEDY,1.67,2,3,8,2,,7.2,Dissatisfied,4K UHD,9,High
+CUST-1224,25,Male,standard,13.99,bank transfer,6.29,Laptop/PC,DRAMA,0.29,2,3,4,0,,7.6,Satisfied,4K UHD,17,Low
+CUST-1582,32,Male ,STANDARD,13.99,e-wallet,3.02,PC,ACTION,1.58,3,2,5,1,,6.7,Neutral,4K UHD,21,Moderate
+CUST-1744,37,MALE,Standard,13.99,Credit Card ,5.4,laptop/pc,Action,0.65,10,2,5,1,,7.6,Neutral,4K UHD,5,High
+CUST-1967,20,FEMALE ,Student ,4.99,credit card,3.14,Laptop/PC ,ANIME,1.35,9,2,3,1,2.88,,Satisfied,HD (720p),28,Low
+CUST-1838,17,Male, student,4.99,E-Wallet,3.23,SMART TV,DRAMA,0.24,12,2,6,3,3.74,,Dissatisfied,HD (720p),21,High
+CUST-1878,29,male,Standard ,13.99,e-wallet,5.03,mobile,Sci-Fi ,1.1,5,3,1,2,,6.6,Satisfied,4K UHD,20,Low
+CUST-1619,34,male ,PREMIUM,18.99,EWALLET,2.94,mobile,Action,2.03,18,5,4,3,,4.9,Neutral,FHD (1080p),9,High
+CUST-1177,30, Male,Standard,13.99, CREDIT CARD,4.8,MOBILE,Drama ,0.33,15,2,5,0,,9.3,Neutral,4K UHD,6,Moderate
+CUST-1676,22,male,standard,13.99,Credit Card ,2.84,Smart TV ,DRAMA,1.55,3,2,4,0,,6.5,Neutral,FHD (1080p),11,Moderate
+CUST-1750,25,MALE, Premium,18.99,Credit Card ,1.86,Smart TV ,ACTION,0.74,5,3,2,0,,8.3,Satisfied,4K UHD,48,Low
+CUST-1596,40,Male,basic,8.99, E-Wallet,2.28, Mobile,COMEDY,0.28,4,1,2,0,,5.9,Very Satisfied,HD (720p),4,Moderate
+CUST-1457,35,female ,Basic,8.99,Ewallet,4.05,mobile,ACTION,2.71,6,1,8,2,,9.2,Neutral,HD (720p),11,High
+CUST-1529,31, Male, standard,13.99,e-wallet,4.77,SMART TV,ACTION,0.75,6,2,2,2,,3.5,Satisfied,FHD (1080p),7,Low
+CUST-1394,52,FEMALE,STANDARD,13.99,Bank Transfer ,3.96,PC,ACTION,2.39,5,2,4,0,,8.1,Satisfied,FHD (1080p),3,Moderate
+CUST-1164,34,female ,BASIC,8.99, PayLater,5.86,Smart TV,Drama ,2.76,1,1,5,2,,7.9,Dissatisfied,HD (720p),11,High
+CUST-1249,35,male ,standard,13.99,EWALLET,1.71,tablet,Comedy,0.73,10,2,6,4,,6.9,Very Dissatisfied,FHD (1080p),22,High
+CUST-1645,28,female ,premium,18.99, PayLater,4.78,mobile ,COMEDY,1.44,23,4,7,2,,5.5,Dissatisfied,FHD (1080p),1,High
+CUST-1943,38,male,basic ,8.99,Credit Card,6.11,Laptop/PC ,ACTION,3.44,5,1,3,1,,9.0,Satisfied,SD (480p),16,Low
+CUST-1680,27,FEMALE,premium,18.99,CreditCard,3.57,pc,documentary,0.77,1,4,9,2,,6.1,Dissatisfied,4K UHD,22,High
+CUST-1376,21,MALE,student,4.99,Ewallet,2.39,SMART TV,Anime ,1.36,13,2,3,0,3.84,,Neutral,HD (720p),3,Moderate
+CUST-1413,39,male, standard,13.99,BANK TRANSFER,5.31,TABLET,Action,2.94,19,3,5,1,,7.7,Neutral,4K UHD,22,Moderate
+CUST-1075,16,Other ,student,4.99, E-Wallet,4.77,pc,COMEDY,1.51,9,2,2,1,3.47,,Neutral,FHD (1080p),9,Moderate
+CUST-1114,30,male,premium,18.99, CREDIT CARD,5.27,tablet, comedy,0.57,19,5,9,1,,7.2,Dissatisfied,FHD (1080p),48,High
+CUST-1579,25, female,PREMIUM,850.0,credit card,3.19,SMART TV,sci-fi,1.55,5,5,2,1,,10.0,Neutral,4K UHD,19,Moderate
+CUST-1569,51,FEMALE,standard,13.99,Bank Transfer ,3.16,Smart TV , anime,1.05,2,2,5,1,,10.0,Neutral,FHD (1080p),42,Low
+CUST-1391,40,male,Premium,18.99,EWALLET,6.2,Tablet,Drama,1.14,20,4,7,3,,6.0,Dissatisfied,FHD (1080p),26,High
+CUST-1105,35,Female ,Basic,8.99,Ewallet,4.21,PC,COMEDY,1.41,3,1,6,5,,7.3,Dissatisfied,SD (480p),11,High
+CUST-1115,28,FEMALE ,premium ,18.99,PayLater,4.34,Smart TV ,Comedy,3.04,5,5,5,1,,2.8,Neutral,4K UHD,15,Moderate
+CUST-1418,21,Female,Student ,4.99,E-Wallet ,2.17,PC, anime,0.79,12,1,1,0,2.84,,Very Satisfied,HD (720p),11,Low
+CUST-1991,39,Male,standard,13.99,Bank Transfer ,2.95,MOBILE,COMEDY,0.55,19,2,10,3,,7.2,Very Dissatisfied,FHD (1080p),11,High
+CUST-1458,29,Male,Basic,8.99,Credit Card ,2.75,MOBILE,Documentary,1.22,3,1,3,1,,7.3,Neutral,HD (720p),18,Moderate
+CUST-1410,28,Female,premium,18.99,Credit Card,3.76,Mobile,ACTION,2.2,19,4,5,0,,7.2,Satisfied,4K UHD,48,Low
+CUST-1093,37,Male , standard,13.99,bank transfer,2.11,Laptop/PC,action ,0.13,5,2,9,2,,5.8,Very Dissatisfied,FHD (1080p),43,High
+CUST-1573,40,Male ,Basic,8.99,e-wallet,1.97,Smart TV,COMEDY,1.29,7,1,11,8,,6.5,Very Dissatisfied,SD (480p),18,High
+CUST-1090,-34, Male,standard,13.99,Credit Card ,2.05, Smart TV,Action,1.24,13,3,7,2,,8.2,Neutral,4K UHD,22,Moderate
+CUST-1337,29, Male,basic ,8.99,Credit Card ,4.4,Mobile,DRAMA,2.3,5,1,4,1,,8.0,Neutral,HD (720p),10,Moderate
+CUST-1500,19,male ,STUDENT,4.99,Ewallet,3.26,Laptop/PC ,action ,1.04,12,2,3,2,3.54,,Dissatisfied,FHD (1080p),43,Moderate
+CUST-1935,25, female,STANDARD,13.99,Credit Card,5.14,MOBILE,action ,2.9,12,2,5,0,,6.6,Satisfied,FHD (1080p),48,Low
+CUST-1947,22,OTHER,Premium,18.99,Bank Transfer,4.8, Smart TV,drama,1.55,3,3,5,0,,6.4,Satisfied,4K UHD,28,Low
+CUST-1616,35,Male , standard,13.99,paylater,2.68,Smart TV , Action,1.09,5,3,6,2,,9.1,Neutral,4K UHD,17,Moderate
+CUST-1604,27,Male ,standard,13.99,CreditCard,3.71,pc, Action,0.43,3,3,11,3,,9.3,Very Dissatisfied,FHD (1080p),14,High
+CUST-1622,41, female,standard,13.99,Credit Card,3.01,TABLET, anime,0.33,16,3,5,1,,7.3,Satisfied,FHD (1080p),19,Low
+CUST-1095,37,Male , Premium,18.99, CREDIT CARD,3.8, Smart TV,Documentary ,2.43,4,5,9,1,,5.3,Dissatisfied,4K UHD,24,High
+CUST-1012,47,Female, Basic,8.99,Credit Card ,4.5,Laptop/PC ,sci-fi,1.3,2,1,11,5,,4.8,Very Dissatisfied,SD (480p),14,High
+CUST-1397,39,male , standard,13.99,Credit Card ,4.46,Smart TV,COMEDY,2.48,7,2,6,4,,6.9,Dissatisfied,FHD (1080p),3,High
+CUST-1542,20,FEMALE,STUDENT,4.99,Bank Transfer,2.54, Tablet,action ,1.29,11,2,3,1,3.13,,Neutral,HD (720p),35,Low
+CUST-1044,21,female , student,4.99,Ewallet,3.32,PC,DRAMA,1.36,17,1,6,1,3.58,,Neutral,FHD (1080p),8,Moderate
+CUST-1043,34,FEMALE ,basic ,8.99, CREDIT CARD,4.15,mobile,ANIME,1.28,2,1,5,0,,7.1,Neutral,HD (720p),8,Moderate
+CUST-1330,40,MALE,basic,8.99,credit card,2.64,MOBILE, Action,1.57,12,1,4,2,,8.7,Neutral,SD (480p),39,Moderate
+CUST-1168,23,male,Student ,4.99,E-Wallet ,5.11,mobile ,Comedy ,3.19,10,1,4,1,2.54,,Neutral,HD (720p),13,Moderate
+CUST-1417,34,FEMALE ,premium,18.99,Credit Card ,3.46,mobile ,Documentary ,1.22,19,4,3,0,,8.1,Neutral,FHD (1080p),1,Moderate
+CUST-1889,32,female ,PREMIUM,18.99,Credit Card,2.71,Laptop/PC,Sci-Fi,0.89,1,5,3,0,,7.7,Neutral,FHD (1080p),16,Low
+CUST-1936,48,Female ,basic,8.99,PayLater,5.28,MOBILE,SciFi,3.04,4,1,5,0,,4.9,Satisfied,SD (480p),48,Low
+CUST-1768,31,Female ,STANDARD,13.99,e-wallet,3.55,Smart TV,SciFi,1.38,4,2,6,4,,6.3,Very Dissatisfied,FHD (1080p),28,High
+CUST-1101,41, female,basic ,8.99,E-Wallet,3.92,Smart TV ,Drama ,0.33,8,1,2,2,,7.8,Neutral,HD (720p),19,Moderate
+CUST-1427,21,male,student,4.99,bank transfer,4.83,mobile ,SciFi,3.53,10,2,6,0,2.95,,Neutral,FHD (1080p),18,Moderate
+CUST-1895,49,Other,Premium,18.99, E-Wallet,1.64,smart tv,Sci-Fi ,0.13,4,4,7,1,,9.2,Neutral,4K UHD,35,Low
+CUST-1976,24,Female ,student,4.99,PayLater,4.21,smart tv, comedy,3.09,5,2,7,1,3.64,,Neutral,HD (720p),5,High
+CUST-1695,39,FEMALE,standard,13.99,Credit Card ,3.85,MOBILE,Action,0.26,19,3,4,1,,6.5,Satisfied,4K UHD,1,Moderate
+CUST-1623,30,FEMALE,Standard ,13.99,Bank Transfer,1.51,Smart TV ,COMEDY,0.52,3,2,2,2,,5.3,Satisfied,4K UHD,5,Moderate
+CUST-1258,26,Male,Premium,18.99,Credit Card,2.19,mobile ,ACTION,1.58,17,4,3,0,,5.7,Satisfied,FHD (1080p),12,Low
+CUST-1336,23,Male , standard,13.99,Bank Transfer ,5.05,Smart TV ,Anime,1.57,2,3,3,1,,7.0,Neutral,4K UHD,17,Moderate
+CUST-1016,31,female , Premium,18.99, E-Wallet,4.06,Smart TV, anime,3.04,10,5,3,0,,8.0,Satisfied,4K UHD,17,Low
+CUST-1836,35,Female ,STANDARD,13.99,E-Wallet ,6.06,tablet ,Documentary,0.97,21,3,3,0,,3.7,Neutral,FHD (1080p),40,Low
+CUST-1325,29, female,STANDARD,13.99,credit card,4.75,pc, Action,1.16,6,2,4,1,,3.6,Neutral,4K UHD,44,Low
+CUST-1993,22,Female ,Basic,8.99,CreditCard,5.01,Smart TV,Drama ,2.23,3,1,3,2,,7.1,Neutral,SD (480p),20,Moderate
+CUST-1223,38,male ,basic,8.99, E-Wallet,1.89,mobile , anime,0.15,2,1,6,1,,5.0,Dissatisfied,HD (720p),16,High
+CUST-1180,25, female,premium ,18.99,Credit Card,3.69,Smart TV , Action,2.31,8,5,8,3,,7.5,Dissatisfied,4K UHD,24,High
+CUST-1999,24,Male ,STUDENT,4.99,E-Wallet ,4.85,smart tv,Sci-Fi,1.19,19,1,2,1,2.78,,Neutral,HD (720p),5,High
+CUST-1522,30,male, standard,13.99,Credit Card,4.1,MOBILE, Action,3.02,18,2,4,0,,10.0,Satisfied,FHD (1080p),2,Moderate
+CUST-1023,21,male ,student,4.99,E-Wallet ,3.83,Tablet,Sci-Fi,1.25,14,1,10,1,2.37,,Dissatisfied,HD (720p),26,High
+CUST-1357,31, Male, Premium,18.99,Credit Card ,2.78,PC,Documentary ,0.43,4,3,2,1,,5.8,Neutral,FHD (1080p),22,Moderate
+CUST-1970,36,male ,premium,18.99,Bank Transfer ,3.9,mobile,Action,1.48,16,5,3,0,,5.7,Neutral,FHD (1080p),4,Moderate
+CUST-1874,30,Male,basic ,8.99,EWALLET,3.2,Tablet,Drama ,0.75,5,1,4,0,,5.0,Neutral,SD (480p),28,Low
+CUST-1341,39, Male,Standard ,13.99,E-Wallet,3.02,Smart TV,action ,0.09,2,3,2,2,,6.9,Neutral,FHD (1080p),26,Low
+CUST-1432,40,Female,basic,8.99,CreditCard,2.81,Laptop/PC ,drama,0.29,3,1,8,0,,10.0,Satisfied,SD (480p),15,Moderate
+CUST-1560,22,Male ,STUDENT,4.99, CREDIT CARD,1.98,laptop/pc,ACTION,0.74,10,2,4,1,3.2,,Neutral,HD (720p),10,Moderate
+CUST-1846,25,male ,PREMIUM,18.99, E-Wallet,1.88, Tablet,SCI-FI,1.37,19,5,7,1,,3.3,Dissatisfied,4K UHD,17,High
+CUST-1204,22,Female, student,4.99,Bank Transfer,2.64,SMART TV,Comedy,0.15,11,2,13,2,2.59,,Very Dissatisfied,HD (720p),18,High
+CUST-1712,17,male , student,4.99,EWALLET,1.39,mobile,SciFi,0.03,11,2,14,3,3.9,,Very Dissatisfied,HD (720p),12,High
+CUST-1094,29,female ,standard,13.99, CREDIT CARD,3.81,MOBILE,Anime ,1.44,23,2,9,0,,6.8,Dissatisfied,FHD (1080p),31,Moderate
+CUST-1963,23,MALE,BASIC,8.99, E-Wallet,3.95,smart tv,action ,0.32,2,1,4,1,,8.6,Neutral,HD (720p),13,Moderate
+CUST-1069,37,female , Basic,8.99,CreditCard,4.3,Smart TV ,SciFi,1.11,4,1,6,2,,8.1,Dissatisfied,SD (480p),6,High
+CUST-1793,24, Male, student,4.99, CREDIT CARD,3.35,Tablet,Sci-Fi ,2.24,13,2,6,3,2.79,,Dissatisfied,HD (720p),9,High
+CUST-1285,43,male ,PREMIUM,18.99, E-Wallet,2.69,PC,documentary,2.01,2,4,1,2,,9.0,Satisfied,FHD (1080p),5,Moderate
+CUST-1817,28,male,Standard,13.99,EWALLET,4.98,TABLET, comedy,0.44,19,2,9,1,,5.9,Neutral,4K UHD,10,High
+CUST-1435,23,OTHER, student,4.99,E-Wallet,4.52,TABLET,Documentary,0.58,9,1,6,3,2.22,,Dissatisfied,FHD (1080p),17,High
+CUST-1154,34,FEMALE,basic,8.99,Bank Transfer ,2.48,mobile,ACTION,0.5,4,1,5,1,,7.0,Satisfied,HD (720p),17,Moderate
+CUST-1076,42,FEMALE,premium,18.99, CREDIT CARD,2.4,SMART TV,Sci-Fi ,1.73,5,5,6,1,,2.0,Neutral,4K UHD,23,Moderate
+CUST-1742,22,male,Student ,4.99,Paylater ,2.91,mobile,Comedy,1.92,6,2,10,1,3.64,,Neutral,FHD (1080p),5,High
+CUST-1447,25,Male ,BASIC,8.99,credit card,2.26, Tablet,Comedy,0.83,1,1,3,0,,5.1,Neutral,SD (480p),48,Low
+CUST-1189,28, Male,Standard ,13.99, E-Wallet,2.64,MOBILE,DOCUMENTARY,1.12,26,3,9,0,,7.4,Neutral,4K UHD,15,Moderate
+CUST-1272,36,FEMALE, standard,13.99, E-Wallet,1.67, Tablet,Action,0.79,10,3,7,1,,6.2,Neutral,4K UHD,24,Moderate
+CUST-1237,21, Male,Student,4.99,bank transfer,4.09,PC,Sci-Fi ,1.58,13,2,5,1,3.42,,Neutral,FHD (1080p),3,High
+CUST-1488,39, female,standard,13.99,Credit Card,3.18,SMART TV, Action,1.84,7,3,3,0,,10.0,Satisfied,FHD (1080p),4,Low
+CUST-1118,42, Other,premium ,18.99,credit card,1.26,pc,documentary,0.94,2,4,12,0,,6.8,Dissatisfied,FHD (1080p),5,High
+CUST-1831,31,male,Standard,13.99,credit card,1.36, Smart TV,action ,0.97,6,2,6,1,,8.8,Neutral,FHD (1080p),35,Low
+CUST-1513,30,Male,PREMIUM,18.99, CREDIT CARD,2.12,Mobile,SciFi,0.18,18,3,4,1,,7.2,Satisfied,4K UHD,2,Moderate
+CUST-1931,25,Female,Standard ,13.99,Bank Transfer ,3.92,laptop/pc,ANIME,0.45,6,2,4,0,,6.1,Satisfied,FHD (1080p),10,Low
+CUST-1602,18,MALE, student,4.99,BANK TRANSFER,3.95, Mobile,COMEDY,2.05,10,2,3,0,2.46,,Satisfied,HD (720p),1,Moderate
+CUST-1127,32,female ,Standard,13.99,Credit Card ,3.96, Tablet,Comedy ,2.24,17,2,8,3,,6.5,Dissatisfied,4K UHD,14,High
+CUST-1117,23,MALE, student,4.99,BANK TRANSFER,4.48,PC,Comedy ,1.67,13,2,3,2,3.89,,Neutral,FHD (1080p),16,Moderate
+CUST-1474,29,female ,Standard ,13.99,E-Wallet ,3.33,MOBILE,Comedy ,0.03,18,3,4,0,,7.5,Satisfied,4K UHD,48,Low
+CUST-1704,25,Other ,premium ,18.99,Credit Card,4.9, Smart TV,Comedy,1.4,2,4,4,1,,8.3,Neutral,4K UHD,11,Moderate
+CUST-1058,16,male,premium ,18.99, CREDIT CARD,2.16,Smart TV ,Anime ,0.13,6,5,4,1,,2.0,Satisfied,4K UHD,32,Low
+CUST-1685,35,Male,basic,8.99, E-Wallet,2.68,TABLET, Action,0.28,4,1,7,2,,7.1,Neutral,SD (480p),48,Moderate
+CUST-1925,23, female,Student,4.99,Credit Card,4.73,SMART TV,ACTION,0.19,8,2,7,3,2.26,,Dissatisfied,HD (720p),31,High
+CUST-1370,20,other, Basic,8.99,E-Wallet,1.29,Smart TV ,ANIME,0.0,2,1,7,3,,10.0,Dissatisfied,HD (720p),13,High
+CUST-1269,41,FEMALE , standard,13.99, E-Wallet,2.82,SMART TV,Anime,1.33,3,3,7,3,,4.8,Dissatisfied,4K UHD,29,High
+CUST-1047,41,Female ,premium,18.99,Credit Card,2.93,tablet, comedy,1.25,17,4,11,5,,9.5,Very Dissatisfied,4K UHD,1,High
+CUST-1350,24, female,Basic,8.99,E-Wallet ,2.4,Mobile, anime,0.16,2,1,6,5,,7.2,Very Dissatisfied,SD (480p),23,High
+CUST-1196,25,male,basic,8.99,Ewallet,3.5,laptop/pc,Documentary,1.68,4,1,10,0,,9.5,Dissatisfied,SD (480p),11,High
+CUST-1738,31,MALE,Standard ,13.99,credit card,3.27,TABLET, Action,2.07,11,2,6,0,,6.3,Neutral,4K UHD,15,Moderate
+CUST-1847,24,male ,Student ,4.99,paylater,2.49,laptop/pc,Drama,0.18,19,1,6,2,2.18,,Dissatisfied,FHD (1080p),1,High
+CUST-1979,16,Female,basic ,8.99,Credit Card,3.1,pc,action ,0.1,6,1,8,5,,4.7,Dissatisfied,SD (480p),14,High
+CUST-1264,18,female ,Student,4.99,E-Wallet ,4.62,PC,Comedy ,0.14,11,2,4,1,3.08,,Neutral,HD (720p),6,Moderate
+CUST-1444,28, female,premium ,18.99,E-Wallet,1.45,Smart TV ,action ,0.93,6,5,3,1,,6.5,Satisfied,4K UHD,7,Low
+CUST-1686,24, Male,STUDENT,4.99,Ewallet,3.32, Mobile,Comedy,1.46,17,2,6,2,3.27,,Dissatisfied,FHD (1080p),14,High
+CUST-1305,21, female, Basic,8.99,bank transfer,3.59,Smart TV ,COMEDY,1.89,3,1,4,1,,8.8,Satisfied,SD (480p),15,Moderate
+CUST-1342,41, female,PREMIUM,18.99,CreditCard,3.6,smart tv,Drama ,0.27,3,4,7,1,,3.4,Dissatisfied,4K UHD,3,High
+CUST-1644,18,Male,STUDENT,4.99,credit card,2.87, Smart TV,COMEDY,0.66,15,2,4,0,2.23,,Satisfied,FHD (1080p),48,Low
+CUST-1982,21,female ,Student ,4.99,Bank Transfer ,3.49,Smart TV ,drama,1.94,15,2,5,0,2.38,,Satisfied,HD (720p),5,Moderate
+CUST-1150,34,male,standard,13.99,e-wallet,1.17,MOBILE,DRAMA,0.38,22,2,3,0,,9.3,Satisfied,4K UHD,17,Low
+CUST-1125,42,MALE, Premium,18.99,Ewallet,4.96,tablet ,ACTION,1.28,24,4,5,0,,10.0,Satisfied,FHD (1080p),7,Low
+CUST-1888,25, Male,PREMIUM,18.99,E-Wallet,3.69,tablet ,Action,0.29,17,4,1,0,,6.0,Satisfied,FHD (1080p),18,Low
+CUST-1835,41,FEMALE , Premium,18.99,credit card,3.89,mobile, comedy,2.13,20,5,4,1,,7.0,Neutral,FHD (1080p),24,Moderate
+CUST-1051,36, Male,BASIC,8.99, PayLater,3.57,smart tv,Drama ,1.85,6,1,8,6,,10.0,Very Dissatisfied,SD (480p),34,High
+CUST-1354,18,Other,student,4.99,Credit Card ,3.25, Mobile, Action,1.97,14,1,7,1,3.01,,Neutral,FHD (1080p),7,Moderate
+CUST-1941,30, female, Premium,18.99, CREDIT CARD,5.13,MOBILE,drama,1.01,24,3,3,2,,7.4,Dissatisfied,4K UHD,2,High
+CUST-1143,33,Female ,Standard ,13.99,E-Wallet,3.36,SMART TV, Action,1.71,4,3,3,1,,5.4,Neutral,4K UHD,5,Moderate
+CUST-1471,36,Male , Basic,8.99,BANK TRANSFER,4.45,mobile,Comedy ,1.51,5,1,3,1,,7.4,Satisfied,SD (480p),8,Low
+CUST-1400,33,FEMALE,Basic,8.99,Credit Card ,3.41,laptop/pc,documentary,2.01,4,1,1,1,,4.1,Neutral,HD (720p),7,Moderate
+CUST-1636,43,MALE,BASIC,8.99,Paylater ,1.91,PC,Sci-Fi,0.81,2,1,5,0,,3.4,Neutral,SD (480p),4,High
+CUST-1321,21,Male , student,4.99,E-Wallet,3.03, Tablet,Drama,0.97,15,2,6,2,2.46,,Neutral,HD (720p),21,Moderate
+CUST-1020,25,Female ,standard,13.99,CreditCard,2.3,MOBILE,Comedy,0.03,14,2,2,0,,9.2,Very Satisfied,4K UHD,33,Low
+CUST-1923,33,Male ,Standard ,13.99,e-wallet,3.07,Tablet,action ,0.31,16,3,5,0,,8.0,Satisfied,4K UHD,4,Moderate
+CUST-1802,25,male ,Standard ,13.99, E-Wallet,4.58,MOBILE,documentary,0.49,21,2,2,0,,9.9,Very Satisfied,FHD (1080p),16,Low
+CUST-1821,47,FEMALE,STANDARD,13.99,bank transfer,3.1,Mobile, Action,1.75,25,3,4,2,,10.0,Neutral,4K UHD,34,Low
+CUST-1408,41,FEMALE , standard,13.99,BANK TRANSFER,3.24,tablet ,Action,1.64,19,2,9,6,,4.8,Dissatisfied,FHD (1080p),8,High
+CUST-1538,30, Male,Basic,8.99,CreditCard,3.65,Smart TV ,Anime,1.33,7,1,3,1,,5.7,Neutral,SD (480p),23,Moderate
+CUST-1631,33,MALE,basic,8.99, PayLater,4.17,SMART TV,ACTION,0.91,6,1,9,2,,6.7,Dissatisfied,HD (720p),7,High
+CUST-1039,30,Male,PREMIUM,18.99,BANK TRANSFER,4.33,Smart TV ,Anime,1.88,2,4,6,2,,8.2,Neutral,4K UHD,28,Low
+CUST-1176,27,Female ,basic,8.99,Bank Transfer,1.83,smart tv,sci-fi,0.03,2,1,3,1,,6.9,Satisfied,SD (480p),28,Low
+CUST-1246,37,FEMALE, standard,13.99, E-Wallet,3.31,Smart TV ,DRAMA,2.37,3,2,8,0,,5.8,Neutral,FHD (1080p),8,Moderate
+CUST-1954,16, female,Student,4.99, CREDIT CARD,1.71,Mobile,Documentary,0.04,8,1,6,2,3.03,,Dissatisfied,HD (720p),24,High
+CUST-1678,23, female,Basic,8.99, E-Wallet,4.3,Laptop/PC ,Drama,3.2,3,1,4,2,,5.6,Dissatisfied,SD (480p),33,Moderate
+CUST-1766,44, Male,Standard,13.99,E-Wallet ,3.29,Mobile,action ,2.03,20,2,7,2,,7.0,Neutral,FHD (1080p),15,Moderate
+CUST-1871,36,MALE,basic,8.99,Ewallet,2.91,laptop/pc,Drama ,0.25,9,1,6,2,,7.7,Dissatisfied,HD (720p),3,High
+CUST-1155,19,Male,Standard ,13.99,Bank Transfer,2.44,smart tv,Action,0.18,5,2,4,1,,3.9,Neutral,FHD (1080p),22,Moderate
+CUST-1288,27,Male, Basic,8.99, E-Wallet,3.6,Smart TV,drama,2.13,2,1,11,3,,7.7,Very Dissatisfied,HD (720p),6,High
+CUST-1763,36,Female,premium,18.99,BANK TRANSFER,3.95,mobile,Documentary,2.04,15,4,5,3,,7.9,Dissatisfied,FHD (1080p),16,High
+CUST-1570,49,female ,BASIC,8.99,e-wallet,3.63, Tablet, Action,1.76,1,1,4,1,,9.6,Neutral,SD (480p),14,Moderate
+CUST-1755,35,male,BASIC,8.99,Bank Transfer,2.24,Laptop/PC,Comedy,0.16,1,1,8,0,,6.6,Satisfied,SD (480p),14,Moderate
+CUST-1018,36,Female ,BASIC,8.99,Credit Card,3.54,SMART TV,Drama,0.36,4,1,4,0,,7.5,Neutral,HD (720p),21,Moderate
+CUST-1128,31,FEMALE , standard,13.99,PAYLATER,1.43, Mobile,SCI-FI,0.12,18,3,6,0,,5.1,Satisfied,FHD (1080p),25,Low
+CUST-1323,40,female ,basic ,8.99,Credit Card ,2.75,MOBILE,Drama ,2.03,6,1,5,0,,4.0,Satisfied,HD (720p),30,Low
+CUST-1256,19, female,student,4.99,E-Wallet,3.6,smart tv, Action,0.24,15,1,5,1,3.2,,Neutral,HD (720p),48,Moderate
+CUST-1668,24,Female,BASIC,8.99,Credit Card ,2.65, Smart TV,ANIME,1.7,1,1,3,1,,8.1,Neutral,HD (720p),4,High
+CUST-1980,37,MALE,Standard ,13.99,Credit Card,2.69,Smart TV,ACTION,1.69,1,3,3,0,,8.9,Neutral,FHD (1080p),19,Low
+CUST-1191,18,Female , student,4.99,e-wallet,3.93,smart tv,Drama ,2.64,12,1,1,1,3.34,,Neutral,FHD (1080p),5,High
+CUST-1116,30,FEMALE,Basic,8.99,Bank Transfer,5.56,mobile ,Drama ,0.62,4,1,4,1,,10.0,Satisfied,HD (720p),4,Moderate
+CUST-1627,25,Other, Basic,8.99,CreditCard,2.69,tablet,Action,1.97,2,1,3,0,,7.9,Neutral,SD (480p),6,Moderate
+CUST-1607,30,FEMALE,Standard ,13.99,credit card,34.2,Laptop/PC,SCI-FI,2.95,4,3,1,0,,6.5,Very Satisfied,FHD (1080p),12,Low
+CUST-1181,-35,other,Premium,18.99,PayLater,5.13,laptop/pc,Action,3.66,3,3,2,0,,6.9,Very Satisfied,FHD (1080p),10,Low
+CUST-1302,32,Male,STANDARD,13.99,Credit Card ,4.25, Smart TV,COMEDY,1.5,0,3,6,0,,8.9,Satisfied,FHD (1080p),34,Low
+CUST-1771,20,male ,STUDENT,4.99,BANK TRANSFER,5.28,mobile,sci-fi,1.35,15,2,6,2,3.14,,Neutral,HD (720p),28,Moderate
+CUST-1724,25,male,premium ,18.99,PAYLATER,1.55,mobile ,Documentary,0.14,27,5,6,3,,8.6,Dissatisfied,4K UHD,4,High
+CUST-1735,44,male,Premium,18.99,Credit Card ,4.37,mobile,ACTION,0.39,19,4,4,1,,10.0,Satisfied,FHD (1080p),18,Low
+CUST-1696,28, Male,STANDARD,13.99,Paylater ,5.8,smart tv,DOCUMENTARY,1.64,4,2,3,1,,7.6,Neutral,FHD (1080p),19,Moderate
+CUST-1791,41,Male, Premium,18.99,E-Wallet ,4.29,smart tv,drama,1.17,6,4,6,1,,6.0,Neutral,4K UHD,4,High
+CUST-1518,36,Male,basic,8.99, E-Wallet,1.85,mobile,DRAMA,0.78,7,1,6,2,,5.0,Neutral,HD (720p),12,Moderate
+CUST-2000,27,FEMALE ,Standard ,13.99,BANK TRANSFER,3.08,tablet ,action ,1.06,21,2,4,1,,10.0,Neutral,4K UHD,46,Low
+CUST-1046,26,FEMALE,Premium,18.99,Bank Transfer ,4.35,mobile,ACTION,3.19,15,4,8,1,,4.9,Neutral,FHD (1080p),7,High
+CUST-1922,42,FEMALE,basic,8.99,e-wallet,2.35, Mobile,Action,1.11,4,1,5,0,,7.8,Satisfied,SD (480p),22,Low
+CUST-1158,35,female , Premium,18.99,credit card,2.96,mobile,ANIME,1.72,18,5,6,1,,5.3,Neutral,FHD (1080p),5,High
+CUST-1756,48,Male,BASIC,8.99,PAYLATER,5.18,SMART TV,drama,2.92,3,1,4,1,,6.7,Neutral,HD (720p),7,Moderate
+CUST-1172,16,Male, student,4.99, E-Wallet,5.14,smart tv,drama,1.72,12,2,7,2,3.34,,Dissatisfied,HD (720p),8,High
+CUST-1017,31,Male ,BASIC,8.99,Credit Card ,4.09,PC,COMEDY,2.06,3,1,10,1,,5.2,Dissatisfied,SD (480p),2,High
+CUST-1512,28, female,PREMIUM,18.99,Credit Card,5.19,smart tv,SCI-FI,3.46,3,4,5,0,,5.6,Satisfied,4K UHD,20,Low
+CUST-1049,25, female,standard,13.99,e-wallet,6.65, Smart TV,COMEDY,0.45,1,3,3,0,,5.0,Neutral,4K UHD,29,Low
+CUST-1987,-16,male,student,4.99,CreditCard,2.05,smart tv,DRAMA,0.53,12,1,6,0,2.29,,Neutral,FHD (1080p),3,High
+CUST-1853,34,Female ,STANDARD,13.99,CreditCard,2.43,Mobile,action ,0.8,16,3,2,0,,8.5,Satisfied,FHD (1080p),2,Low
+CUST-1516,23,FEMALE ,Student ,4.99,credit card,2.82,mobile ,drama,0.77,12,2,3,0,2.83,,Neutral,HD (720p),3,Moderate
+CUST-1697,25,Male , Premium,18.99,Credit Card ,4.24,Laptop/PC ,drama,2.91,4,4,0,0,,8.3,Satisfied,4K UHD,8,Low
+CUST-1481,33,FEMALE,standard,13.99,Ewallet,4.98,Laptop/PC,Action,1.79,4,2,5,1,,5.5,Neutral,FHD (1080p),8,Moderate
+CUST-1284,20,female , Basic,8.99,bank transfer,2.49,Smart TV ,Comedy,0.84,4,1,7,0,,7.9,Satisfied,SD (480p),7,Low
+CUST-1746,41,male,BASIC,8.99,e-wallet,3.62,Smart TV ,Documentary,1.14,4,1,5,0,,9.5,Neutral,SD (480p),2,High
+CUST-1665,25,female ,Premium,18.99,e-wallet,4.12,Smart TV,Anime ,2.81,4,4,5,2,,5.9,Neutral,4K UHD,18,Moderate
+CUST-1226,40,FEMALE ,Standard,13.99,EWALLET,2.44, Smart TV,Drama ,0.46,4,3,2,0,,8.7,Very Satisfied,4K UHD,12,Low
+CUST-1027,37,male ,BASIC,8.99,E-Wallet ,4.73,MOBILE,action ,1.48,4,1,8,2,,5.9,Neutral,HD (720p),14,High
+CUST-1794,21,FEMALE ,Student ,4.99,Ewallet,2.85,mobile,Anime,1.28,18,2,5,1,2.76,,Satisfied,FHD (1080p),16,Moderate
+CUST-1438,20,female ,basic,8.99,EWALLET,4.71,smart tv, anime,2.13,1,1,4,1,,5.9,Neutral,SD (480p),10,Moderate
+CUST-1965,-37,FEMALE ,Standard ,13.99,CreditCard,3.85, Smart TV,Sci-Fi,1.91,5,2,6,0,,6.9,Neutral,FHD (1080p),9,Moderate
+CUST-1365,26,Male, standard,13.99,bank transfer,2.14,SMART TV,COMEDY,0.8,3,3,5,0,,5.6,Neutral,FHD (1080p),33,Low
+CUST-1230,44,FEMALE ,Premium,18.99,Credit Card,4.91,mobile ,Action,2.36,17,5,4,0,,7.9,Neutral,FHD (1080p),5,Moderate
+CUST-1038,38,Female, standard,13.99,E-Wallet,3.01,Mobile, comedy,1.36,11,3,4,1,,6.4,Neutral,4K UHD,2,High
+CUST-1981,42,female ,standard,13.99,Credit Card ,3.11,MOBILE,ANIME,0.81,20,2,3,1,,3.0,Satisfied,FHD (1080p),44,Low
+CUST-1375,20, female,Student,4.99,BANK TRANSFER,4.17,Laptop/PC , comedy,1.13,13,1,2,1,2.54,,Satisfied,HD (720p),6,Low
+CUST-1470,31,Female ,basic ,8.99,Credit Card ,5.14, Mobile,action ,3.17,6,1,5,0,,6.0,Satisfied,HD (720p),13,Low
+CUST-1983,48,Male,BASIC,8.99,Bank Transfer,4.25,tablet ,drama,0.09,3,1,5,1,,10.0,Neutral,HD (720p),2,High
+CUST-1914,26,male,Standard ,13.99,credit card,3.85,Laptop/PC , comedy,1.74,2,3,2,2,,5.1,Neutral,4K UHD,15,Moderate
+CUST-1715,30,female ,basic,8.99, CREDIT CARD,4.54, Smart TV,ACTION,3.26,4,1,8,4,,4.6,Very Dissatisfied,SD (480p),21,High
+CUST-1737,37,male,basic,8.99, E-Wallet,1.27, Mobile,ANIME,0.55,5,1,5,1,,9.9,Satisfied,SD (480p),3,Moderate
+CUST-1195,41,FEMALE ,PREMIUM,18.99,credit card,2.38,mobile , anime,1.67,17,4,4,1,,6.2,Satisfied,4K UHD,7,Low
+CUST-1867,35, Other,standard,13.99,Credit Card ,3.06,SMART TV,Drama,1.62,8,3,2,0,,7.7,Satisfied,FHD (1080p),5,Low
+CUST-1877,30,female ,Standard,13.99,CreditCard,3.86,MOBILE,Drama,1.6,17,3,4,0,,6.2,Neutral,4K UHD,2,Moderate
+CUST-1504,42,FEMALE,PREMIUM,18.99,bank transfer,3.61,SMART TV,Action,2.15,3,4,4,2,,5.2,Neutral,4K UHD,13,Moderate
+CUST-1985,25,male,basic ,8.99,Ewallet,4.24, Tablet,Drama ,1.09,5,1,9,1,,8.4,Neutral,HD (720p),10,High
+CUST-1843,32,Male, Basic,8.99,Ewallet,1.9,smart tv,Action,0.4,1,1,5,0,,4.1,Neutral,HD (720p),48,Low
+CUST-1580,25, female, standard,13.99,e-wallet,4.91,PC,Action,1.2,5,2,5,0,,6.8,Satisfied,4K UHD,11,Low
+CUST-1984,43, female, standard,13.99,Ewallet,2.2, Smart TV,Documentary ,1.47,4,2,7,2,,7.1,Dissatisfied,FHD (1080p),20,High
+CUST-1163,24,other, student,4.99, CREDIT CARD,5.16,Smart TV,Action,1.31,15,2,5,0,3.36,,Satisfied,FHD (1080p),5,Moderate
+CUST-1713,31,female ,Basic,8.99,Bank Transfer ,3.78,Mobile,Action,0.01,5,1,3,0,,7.5,Satisfied,HD (720p),4,Moderate
+CUST-1153,21,FEMALE ,Student ,4.99,E-Wallet ,2.59,MOBILE,drama,0.65,17,1,9,2,3.68,,Dissatisfied,FHD (1080p),26,High
+CUST-1930,25,Male,Standard ,13.99,Credit Card ,2.9, Mobile,Drama,1.48,22,3,3,1,,6.0,Satisfied,4K UHD,3,Moderate
+CUST-1717,41,Female,STANDARD,13.99, CREDIT CARD,4.16,Laptop/PC,Sci-Fi,1.47,6,2,6,4,,3.2,Very Dissatisfied,FHD (1080p),2,High
+CUST-1844,21,Female,Student ,4.99,E-Wallet,1.91, Mobile,Drama,1.29,13,2,5,0,3.41,,Neutral,HD (720p),6,Moderate
+CUST-1112,17,MALE,Basic,8.99,CreditCard,3.14,Smart TV,Action,0.81,2,1,5,0,,7.1,Satisfied,SD (480p),39,Low
+CUST-1227,27,male ,basic ,8.99, CREDIT CARD,3.24,SMART TV,SciFi,1.08,1,1,5,1,,7.0,Satisfied,HD (720p),33,Low
+CUST-1760,33,FEMALE ,basic ,8.99, CREDIT CARD,2.69,smart tv,action ,1.38,4,1,7,6,,6.1,Dissatisfied,HD (720p),25,High
+CUST-1104,32,female ,basic,8.99, CREDIT CARD,1.78, Smart TV,SciFi,0.2,2,1,9,1,,5.3,Neutral,HD (720p),8,High
+CUST-1422,39,Female , Basic,8.99,CreditCard,4.66,smart tv,Anime ,1.59,3,1,5,0,,5.0,Neutral,SD (480p),5,High
+CUST-1420,45,FEMALE , Basic,8.99,BANK TRANSFER,3.28,tablet,Anime ,0.36,1,1,5,0,,9.7,Neutral,HD (720p),46,Low
+CUST-1762,25,male ,Premium,18.99,Bank Transfer ,1.77,MOBILE,action ,0.91,25,5,5,0,,9.7,Satisfied,FHD (1080p),3,Moderate
+CUST-1587,25,female ,premium ,18.99,PayLater,3.83,laptop/pc, Action,2.27,3,4,6,3,,6.6,Very Dissatisfied,4K UHD,8,High
+CUST-1899,40,Male , Premium,18.99,Credit Card ,3.21,SMART TV,ACTION,2.35,4,4,4,1,,5.6,Neutral,4K UHD,3,High
+CUST-1673,28,FEMALE, Premium,18.99,e-wallet,6.17,Smart TV,drama,3.91,2,4,4,1,,3.9,Neutral,4K UHD,48,Low
+CUST-1120,37,male ,Standard ,13.99,e-wallet,3.84,Smart TV ,Comedy,0.69,4,3,12,2,,5.9,Very Dissatisfied,4K UHD,48,High
+CUST-1054,36,Female,Basic,8.99,paylater,2.43,pc, Action,1.79,3,1,6,1,,8.7,Neutral,SD (480p),7,Moderate
+CUST-1152,17,MALE,STANDARD,13.99,E-Wallet,4.37,Smart TV ,Action,2.81,5,3,0,0,,5.9,Satisfied,FHD (1080p),34,Low
+CUST-1404,37, Male, Basic,8.99,Bank Transfer,3.05,tablet ,DRAMA,1.65,3,1,4,0,,6.0,Neutral,HD (720p),19,Moderate
+CUST-1959,40, Male,premium,18.99,Credit Card,2.56,tablet ,Drama ,0.94,14,5,4,0,,6.9,Satisfied,4K UHD,11,Low
+CUST-1208,25,Female , Basic,8.99, CREDIT CARD,4.45,SMART TV,action ,0.2,5,1,6,1,,9.1,Dissatisfied,HD (720p),15,High
+CUST-1659,26,Male ,basic,8.99,credit card,1.82,Laptop/PC ,action ,0.12,6,1,7,1,,3.6,Dissatisfied,HD (720p),9,High
+CUST-1856,49,Male , Basic,8.99,Bank Transfer,4.45,Laptop/PC,action ,1.18,5,1,5,0,,7.1,Neutral,SD (480p),11,Moderate
+CUST-1774,24,Male , student,4.99,Ewallet,4.67,mobile ,ANIME,0.54,14,2,2,0,3.11,,Very Satisfied,HD (720p),17,Low
+CUST-1009,24,FEMALE ,Student ,4.99,BANK TRANSFER,5.4, Tablet, Action,2.65,11,2,4,0,3.11,,Neutral,HD (720p),15,Moderate
+CUST-1820,45, Male, Premium,18.99,e-wallet,2.88,Smart TV ,Action,1.44,4,3,3,1,,4.4,Neutral,4K UHD,43,Low
+CUST-1037,25,Male ,Premium,18.99,E-Wallet ,5.52,pc,drama,0.74,7,5,6,1,,5.3,Neutral,FHD (1080p),24,Moderate
+CUST-1453,16,FEMALE ,Student ,4.99,Credit Card ,4.26,Laptop/PC,action ,2.35,11,2,7,1,3.26,,Dissatisfied,HD (720p),14,High
+CUST-1652,19,female ,basic,8.99, CREDIT CARD,3.95, Smart TV, Action,0.66,1,1,3,0,,9.4,Satisfied,SD (480p),7,Low
+CUST-1254,56,Male , Basic,8.99, PayLater,1.51,laptop/pc, Action,0.72,4,1,6,2,,7.1,Dissatisfied,HD (720p),12,High
+CUST-1304,22,MALE,Student,4.99,credit card,4.83, Tablet, comedy,0.17,12,1,7,3,3.29,,Dissatisfied,FHD (1080p),3,High
+CUST-1758,19,MALE, student,4.99,CreditCard,5.7,smart tv,action ,3.49,20,2,10,3,3.37,,Dissatisfied,HD (720p),22,High
+CUST-1572,42, female,standard,13.99,e-wallet,2.38,Smart TV ,Anime,0.11,8,2,5,1,,9.4,Satisfied,FHD (1080p),3,Moderate
+CUST-1624,30,Other , standard,13.99,bank transfer,3.49,Smart TV ,DRAMA,0.84,6,3,6,4,,6.7,Dissatisfied,FHD (1080p),23,High
+CUST-1721,46, female,Premium,18.99,credit card,4.36, Smart TV,SciFi,1.61,4,5,9,2,,9.1,Very Dissatisfied,4K UHD,7,High
+CUST-1731,30,FEMALE,basic ,8.99,Paylater ,4.03, Smart TV,Drama ,2.62,3,1,4,1,,7.8,Satisfied,HD (720p),3,Moderate
+CUST-1263,34,Male ,premium,18.99,credit card,1.55, Smart TV,SCI-FI,0.21,5,4,4,0,,5.1,Neutral,4K UHD,32,Low
+CUST-1611,26,FEMALE ,basic,8.99,credit card,3.64,SMART TV, anime,1.54,5,1,3,0,,9.2,Neutral,HD (720p),8,Moderate
+CUST-1298,44, female, standard,13.99,PayLater,3.56,Smart TV,DRAMA,2.47,4,3,4,1,,4.6,Satisfied,4K UHD,8,Low
+CUST-1415,23,MALE,Student ,4.99,E-Wallet,5.3,smart tv,DRAMA,1.49,11,2,11,6,2.71,,Very Dissatisfied,HD (720p),6,High
+CUST-1151,25,female ,basic ,8.99,Credit Card,2.02,mobile, Action,1.39,8,1,7,3,,6.5,Very Dissatisfied,HD (720p),20,High
+CUST-1800,19,Male, student,4.99,Credit Card,3.7,MOBILE, anime,0.62,21,2,4,0,3.32,,Satisfied,FHD (1080p),5,Moderate
+CUST-1641,22,MALE, student,4.99,PayLater,3.83,MOBILE,Comedy,2.59,12,1,8,1,3.81,,Dissatisfied,HD (720p),8,High
+CUST-1902,38,Female ,Basic,8.99, PayLater,2.19,SMART TV,COMEDY,1.63,5,1,6,2,,5.6,Dissatisfied,HD (720p),14,High
+CUST-1551,35,Male,standard,13.99,CreditCard,2.46,Smart TV ,Comedy ,1.65,4,3,3,0,,5.4,Neutral,4K UHD,10,Low
+CUST-1803,46, female,Standard ,13.99,paylater,2.58,SMART TV,Comedy,0.44,4,2,6,6,,9.1,Dissatisfied,FHD (1080p),48,High
+CUST-1489,47,Male,Basic,8.99,BANK TRANSFER,3.78,laptop/pc,Drama ,2.48,4,1,4,1,,9.0,Satisfied,SD (480p),48,Low
+CUST-1711,28,male ,basic ,8.99,Ewallet,4.11,Smart TV ,ACTION,1.43,4,1,6,3,,2.7,Dissatisfied,HD (720p),28,High
+CUST-1148,36,female ,Standard ,13.99,Credit Card ,4.28,smart tv,sci-fi,2.05,7,2,4,0,,9.1,Satisfied,FHD (1080p),31,Low
+CUST-1147,17,Male, student,4.99,PAYLATER,5.85,Smart TV,Comedy,3.67,16,2,5,0,3.34,,Neutral,HD (720p),48,Low
+CUST-1732,35,FEMALE,basic,8.99,Credit Card,5.71,mobile,Documentary ,2.51,3,1,8,1,,8.4,Neutral,SD (480p),10,High
+CUST-1945,16,FEMALE, student,4.99,Bank Transfer ,3.97,Smart TV ,Anime,2.84,14,1,6,1,3.84,,Neutral,FHD (1080p),35,Moderate
+CUST-1751,26,MALE,Basic,8.99, CREDIT CARD,5.11,SMART TV,Drama,3.59,4,1,6,2,,6.3,Dissatisfied,HD (720p),10,High
+CUST-1660,33,female ,STANDARD,13.99, E-Wallet,1.56,SMART TV,sci-fi,0.6,4,2,7,2,,8.6,Dissatisfied,4K UHD,9,High
+CUST-1349,38,MALE, standard,13.99, E-Wallet,3.46, Smart TV,COMEDY,0.47,2,3,3,0,,6.9,Satisfied,FHD (1080p),8,Low
+CUST-1464,38,male ,premium ,18.99,e-wallet,3.24,Smart TV ,Comedy ,1.14,6,4,9,3,,6.2,Dissatisfied,4K UHD,18,High
+CUST-1326,36,MALE,Basic,8.99,bank transfer,3.58,pc,Comedy ,2.62,2,1,3,0,,8.5,Satisfied,SD (480p),36,Low
+CUST-1187,23,MALE,BASIC,8.99,e-wallet,2.85,Mobile, anime,1.4,7,1,5,3,,9.0,Dissatisfied,HD (720p),1,High
+CUST-1124,35,Male , Basic,8.99,Ewallet,2.69,smart tv,Action,1.48,3,1,3,1,,6.2,Neutral,SD (480p),2,High
+CUST-1866,35,male,Standard,13.99, E-Wallet,1.9, Smart TV,Sci-Fi,1.09,2,3,8,3,,10.0,Dissatisfied,4K UHD,45,High
+CUST-1609,21,Female ,student,4.99,credit card,4.94,pc,Drama ,0.96,14,1,2,0,2.88,,Satisfied,HD (720p),7,Low
+CUST-1144,38,female ,BASIC,8.99,CreditCard,1.25,mobile,action ,0.9,2,1,4,0,,6.4,Satisfied,HD (720p),3,Moderate
+CUST-1974,22,Female , student,4.99, CREDIT CARD,2.44,tablet ,SciFi,1.13,11,1,3,0,2.64,,Neutral,HD (720p),22,Moderate
+CUST-1198,17,Female, Basic,8.99,E-Wallet ,4.08, Smart TV,DRAMA,0.85,6,1,6,0,,7.4,Satisfied,SD (480p),20,Low
+CUST-1610,34,MALE,BASIC,8.99,Bank Transfer,4.66, Smart TV,COMEDY,0.64,4,1,6,2,,5.9,Neutral,HD (720p),5,High
+CUST-1280,25,Male ,Standard,13.99,Bank Transfer ,4.55,mobile ,SciFi,1.84,10,3,7,1,,3.8,Neutral,FHD (1080p),11,Moderate
+CUST-1294,39,FEMALE ,Standard,13.99,E-Wallet,5.32,Smart TV,DRAMA,2.71,4,3,5,1,,8.4,Satisfied,FHD (1080p),19,Low
+CUST-1401,31,male ,Standard ,13.99,E-Wallet ,2.53,mobile,COMEDY,0.92,19,3,4,0,,4.9,Satisfied,4K UHD,7,Low
+CUST-1123,39,male, Premium,18.99,EWALLET,1.9,TABLET, comedy,0.3,16,4,3,1,,8.2,Satisfied,4K UHD,7,Low
+CUST-1184,26,Female,PREMIUM,18.99,E-Wallet ,3.07,SMART TV, comedy,0.28,3,3,4,2,,9.3,Neutral,4K UHD,26,Low
+CUST-1203,21,FEMALE,Student,4.99, CREDIT CARD,5.44,PC, anime,0.65,10,1,3,3,2.78,,Dissatisfied,FHD (1080p),4,High
+CUST-1439,35,female ,STANDARD,13.99,Credit Card,3.67,smart tv,drama,2.17,1,3,4,0,,7.2,Satisfied,FHD (1080p),15,Low
+CUST-1247,16,FEMALE ,STUDENT,399.0,CreditCard,4.9,SMART TV,action ,3.01,8,1,1,1,3.65,,Neutral,FHD (1080p),4,High
+CUST-1416,20, female, student,4.99,Credit Card,3.81,Smart TV ,action ,0.63,11,1,4,0,3.03,,Neutral,HD (720p),5,High
+CUST-1788,27,Female ,basic,8.99,credit card,3.23,mobile,SciFi,2.24,3,1,3,0,,2.4,Neutral,HD (720p),34,Low
+CUST-1946,24,MALE,Standard ,13.99,E-Wallet ,2.73,Mobile,action ,0.06,13,3,6,3,,6.1,Very Dissatisfied,4K UHD,30,High
+CUST-1919,37, female,BASIC,8.99,Credit Card ,2.62,mobile,Drama,0.21,1,1,6,2,,5.7,Neutral,SD (480p),10,Moderate
+CUST-1864,26, Male,basic,8.99,EWALLET,3.12,mobile,Sci-Fi ,0.26,4,1,10,4,,8.2,Dissatisfied,HD (720p),20,High
+CUST-1900,25,female ,premium,18.99,credit card,4.1,PC,drama,1.04,6,5,6,3,,4.2,Very Dissatisfied,FHD (1080p),37,High
+CUST-1130,37,female ,basic,8.99,E-Wallet ,3.73,mobile,COMEDY,1.12,6,1,2,0,,8.7,Very Satisfied,HD (720p),2,Moderate
+CUST-1638,19,MALE, student,4.99,Ewallet,3.58,mobile ,Comedy,1.19,12,1,11,1,3.92,,Neutral,FHD (1080p),12,High
+CUST-1403,41,Male ,BASIC,8.99,bank transfer,2.61,smart tv,COMEDY,1.75,5,1,3,1,,6.7,Satisfied,SD (480p),4,Moderate
+CUST-1810,35, female,BASIC,8.99,Credit Card,1.94,Smart TV,SCI-FI,1.13,6,1,6,2,,6.5,Neutral,SD (480p),20,Moderate
+CUST-1782,38,Female,basic ,8.99,Bank Transfer,4.79,Smart TV,DRAMA,1.98,0,1,6,1,,3.6,Neutral,SD (480p),2,High
+CUST-1736,37, female,standard,13.99,Ewallet,4.99,Smart TV,ANIME,1.92,7,3,5,0,,4.1,Neutral,FHD (1080p),4,Moderate
+CUST-1926,17,female ,Student ,4.99,E-Wallet,2.34,mobile, Action,0.12,16,2,3,1,2.45,,Neutral,FHD (1080p),12,Moderate
+CUST-1220,29,male, Premium,18.99, CREDIT CARD,2.59,SMART TV,drama,1.25,5,5,5,1,,9.0,Neutral,4K UHD,31,Low
+CUST-1642,17,FEMALE, standard,13.99,PAYLATER,3.58,laptop/pc,COMEDY,0.37,1,3,6,4,,5.4,Dissatisfied,4K UHD,11,High
+CUST-1928,29, Male,BASIC,8.99,E-Wallet,2.96,MOBILE,Anime ,2.16,1,1,6,1,,4.6,Dissatisfied,SD (480p),8,High
+CUST-1897,42,male ,basic ,650.0,e-wallet,1.73,PC, Action,1.27,4,1,6,1,,5.6,Dissatisfied,HD (720p),19,High
+CUST-1957,25,Male,Standard,13.99,E-Wallet,3.94,Laptop/PC ,Drama,0.9,6,3,4,1,,5.1,Neutral,4K UHD,2,High
+CUST-1933,25,Male,Standard,13.99,Credit Card,5.36,Smart TV,Documentary ,0.39,1,2,8,0,,6.8,Neutral,4K UHD,2,High
+CUST-1625,32,Male,standard,13.99,Credit Card ,2.53,Smart TV,Drama ,0.01,1,3,5,2,,7.9,Dissatisfied,4K UHD,5,High
+CUST-1851,32,male,BASIC,8.99,EWALLET,4.25,Mobile,Comedy ,1.17,2,1,4,1,,6.5,Satisfied,HD (720p),45,Low
+CUST-1924,30,OTHER,premium ,18.99,PAYLATER,4.31,mobile ,COMEDY,0.32,19,5,9,0,,7.2,Dissatisfied,FHD (1080p),14,High
+CUST-1387,35, Male,STANDARD,13.99, PayLater,2.51, Mobile,ACTION,0.33,21,2,3,0,,6.6,Neutral,4K UHD,48,Low
+CUST-1988,30,FEMALE ,standard,13.99,Ewallet,1.28,MOBILE,action ,0.34,20,2,6,2,,6.9,Dissatisfied,FHD (1080p),16,High
+CUST-1510,28,FEMALE ,Standard,13.99,E-Wallet ,3.61,Smart TV, comedy,2.56,0,3,10,2,,7.3,Very Dissatisfied,FHD (1080p),23,High
+CUST-1268,21,Male,STUDENT,4.99,Bank Transfer ,3.15,MOBILE,Documentary,2.12,8,1,7,2,3.56,,Dissatisfied,FHD (1080p),48,Moderate
+CUST-1961,33,Male ,Standard ,13.99,Bank Transfer,3.68,Smart TV ,COMEDY,1.98,2,2,4,2,,9.3,Neutral,4K UHD,33,Low
+CUST-1442,20,female ,Standard,13.99,BANK TRANSFER,2.62,Tablet,Anime ,0.33,9,3,2,1,,5.5,Satisfied,FHD (1080p),6,Low
+CUST-1497,35, Male,BASIC,8.99,e-wallet,5.02,MOBILE,action ,3.36,4,1,3,1,,6.2,Satisfied,HD (720p),4,Moderate
+CUST-1113,23,FEMALE ,STUDENT,4.99,paylater,1.94,pc,Drama,0.12,10,1,11,4,3.87,,Dissatisfied,FHD (1080p),12,High
+CUST-1692,39,FEMALE ,basic,8.99,EWALLET,2.68,mobile ,Sci-Fi ,0.13,8,1,9,3,,5.2,Very Dissatisfied,HD (720p),12,High
+CUST-1233,42, female,STANDARD,13.99,EWALLET,3.34,Smart TV ,Action,0.67,6,2,8,2,,7.1,Neutral,4K UHD,5,High
+CUST-1882,18,male ,student,4.99,BANK TRANSFER,3.83,MOBILE, comedy,2.42,13,1,4,1,2.28,,Satisfied,HD (720p),27,Low
+CUST-1608,28,FEMALE,premium,18.99,E-Wallet ,5.51,laptop/pc,action ,0.51,7,5,3,0,,6.0,Neutral,4K UHD,7,Low
+CUST-1672,35, Male,BASIC,8.99,BANK TRANSFER,3.26,mobile , Action,0.86,3,1,5,0,,8.0,Neutral,HD (720p),17,Moderate
+CUST-1374,25,MALE,BASIC,8.99, CREDIT CARD,5.04,Tablet,Drama ,0.36,4,1,7,3,,5.1,Very Dissatisfied,HD (720p),19,High
+CUST-1997,30,male ,premium ,18.99,Ewallet,2.67,Laptop/PC ,Comedy,0.68,5,5,5,0,,9.1,Neutral,4K UHD,12,Moderate
+CUST-1855,40,Male , Basic,8.99,E-Wallet,2.58,Smart TV , anime,0.35,3,1,8,2,,7.4,Neutral,SD (480p),36,Moderate
+CUST-1234,38,Male,basic,8.99,credit card,2.19,mobile ,SciFi,1.15,2,1,7,6,,8.8,Very Dissatisfied,HD (720p),33,High
+CUST-1797,-38,male , Basic,8.99, CREDIT CARD,4.61,mobile,Comedy,2.45,6,1,5,1,,3.8,Neutral,SD (480p),1,High
+CUST-1677,22,Female ,STUDENT,4.99,CreditCard,3.38,Laptop/PC ,ANIME,1.13,11,2,3,1,3.68,,Satisfied,HD (720p),18,Low
+CUST-1318,35,Other, Basic,8.99,Credit Card ,3.87,Smart TV ,ANIME,2.32,2,1,3,0,,4.6,Satisfied,HD (720p),6,Low
+CUST-1649,48,Female,BASIC,8.99,Ewallet,4.04,TABLET,SciFi,0.17,5,1,6,2,,7.3,Neutral,SD (480p),3,High
+CUST-1411,30,FEMALE ,standard,13.99,EWALLET,3.11,laptop/pc,action ,0.76,4,2,10,3,,7.5,Very Dissatisfied,4K UHD,48,High
+CUST-1911,32,Female, standard,13.99,E-Wallet,3.07, Tablet,action ,1.48,16,3,5,0,,3.8,Neutral,FHD (1080p),8,Moderate
+CUST-1710,35,male,basic,8.99,Credit Card,3.09,smart tv,Drama,1.3,5,1,10,2,,7.0,Dissatisfied,SD (480p),24,High
+CUST-1359,29,FEMALE ,PREMIUM,18.99,credit card,1.94, Mobile,DRAMA,0.76,15,5,7,0,,5.7,Neutral,4K UHD,37,Low
+CUST-1259,38,MALE,standard,13.99,PAYLATER,4.25,Laptop/PC , Action,0.26,1,3,5,2,,6.9,Neutral,FHD (1080p),45,Low
+CUST-1745,51,Male ,Basic,8.99,BANK TRANSFER,4.39,Smart TV,DRAMA,0.9,3,1,2,0,,6.8,Satisfied,HD (720p),4,Moderate
+CUST-1628,45,MALE,BASIC,8.99,EWALLET,2.2,Mobile, anime,0.55,5,1,5,0,,8.6,Neutral,SD (480p),6,Moderate
+CUST-1633,20,female ,student,4.99,Credit Card ,4.83,mobile,Comedy ,3.55,14,2,13,5,3.41,,Dissatisfied,HD (720p),2,High
+CUST-1283,39,Male,premium ,18.99,Credit Card ,2.05,mobile ,action ,1.28,14,4,5,0,,4.7,Neutral,4K UHD,1,Moderate
+CUST-1377,44,FEMALE , Premium,18.99,EWALLET,5.37,mobile ,documentary,2.16,23,5,9,2,,6.4,Dissatisfied,FHD (1080p),2,High
+CUST-1385,22,MALE,Standard,13.99,E-Wallet,1.7,Smart TV ,DRAMA,1.23,3,2,9,3,,8.7,Very Dissatisfied,FHD (1080p),18,High
+CUST-1225,17,Male,STUDENT,4.99,Credit Card ,5.74,mobile ,action ,2.29,6,1,4,1,3.2,,Neutral,HD (720p),35,Moderate
+CUST-1969,28,Female,Standard ,13.99,PAYLATER,3.77,SMART TV,COMEDY,2.42,4,2,2,0,,8.4,Satisfied,4K UHD,1,Low
+CUST-1827,25,FEMALE ,Standard,13.99, PayLater,3.2,smart tv, Action,0.84,3,3,3,0,,7.3,Satisfied,4K UHD,8,Low
+CUST-1473,25,female ,basic ,8.99,Bank Transfer ,2.91,SMART TV,Drama,1.22,2,1,4,0,,7.9,Neutral,HD (720p),2,High
+CUST-1348,49, Male,PREMIUM,18.99,e-wallet,1.82, Smart TV,Drama,0.01,2,3,10,5,,5.9,Dissatisfied,4K UHD,37,High
+CUST-1506,28,FEMALE,STANDARD,13.99,EWALLET,2.78,mobile , comedy,0.17,18,3,4,1,,7.1,Satisfied,FHD (1080p),24,Low
+CUST-1640,25,FEMALE ,Standard,13.99,e-wallet,2.38,mobile,Comedy ,1.31,16,2,4,0,,6.9,Neutral,FHD (1080p),7,Moderate
+CUST-1934,49,Female,premium ,18.99,E-Wallet,4.14, Mobile,Comedy,0.24,14,4,5,0,,5.9,Neutral,4K UHD,19,Moderate
+CUST-1798,50,Female ,Standard,13.99,BANK TRANSFER,5.26,mobile ,Anime ,0.11,11,3,8,1,,3.9,Dissatisfied,4K UHD,1,High
+CUST-1942,18,FEMALE ,STUDENT,4.99,Bank Transfer ,4.7,smart tv, Action,1.21,5,1,3,0,2.73,,Satisfied,HD (720p),5,Moderate
+CUST-1918,32,Female,PREMIUM,18.99,PayLater,6.35,SMART TV,ANIME,3.07,4,5,7,1,,5.7,Neutral,4K UHD,16,Moderate
+CUST-1620,33, Male, Basic,8.99,CreditCard,4.31,Laptop/PC,Comedy,1.31,4,1,8,1,,8.7,Neutral,HD (720p),12,High
+CUST-1868,34,MALE,standard,13.99,PAYLATER,4.3,mobile, comedy,1.8,23,3,4,1,,7.7,Neutral,4K UHD,19,Moderate
+CUST-1913,44,FEMALE, Basic,-8.99, CREDIT CARD,3.46,smart tv,ANIME,1.23,6,1,7,1,,7.9,Neutral,HD (720p),14,Moderate
+CUST-1646,25,Male, standard,13.99,paylater,3.89,Smart TV ,Sci-Fi,2.45,7,2,8,2,,9.4,Dissatisfied,4K UHD,6,High
+CUST-1859,21,male,basic,8.99,Credit Card,-4.02, Smart TV,DRAMA,0.0,4,1,6,4,,9.2,Very Dissatisfied,HD (720p),13,High
+CUST-1557,25,Male,Standard,13.99,bank transfer,1.99,MOBILE,Sci-Fi,0.16,20,3,6,0,,4.0,Neutral,FHD (1080p),19,Moderate
+CUST-1973,38,FEMALE ,standard,13.99,credit card,2.13,SMART TV, anime,1.55,9,2,3,0,,4.8,Neutral,FHD (1080p),7,Low
+CUST-1578,18,Female, student,4.99,bank transfer,3.14,mobile ,documentary,0.81,16,2,9,2,3.08,,Dissatisfied,FHD (1080p),1,High
+CUST-1796,45,FEMALE ,premium ,18.99,PAYLATER,1.32,PC,Documentary ,0.34,4,5,3,0,,6.1,Satisfied,4K UHD,18,Low
+CUST-1086,25,Female, standard,13.99,Credit Card,5.01,MOBILE,DRAMA,0.64,16,2,4,0,,5.2,Satisfied,4K UHD,25,Low
+CUST-1243,34,female ,basic,8.99, PayLater,2.18, Tablet,SciFi,1.28,7,1,7,2,,6.3,Dissatisfied,HD (720p),13,High
+CUST-1699,21,Female ,premium ,18.99,Bank Transfer ,4.01,smart tv,action ,1.67,10,4,3,0,,10.0,Satisfied,4K UHD,11,Low
+CUST-1160,54,Female,standard,13.99,Ewallet,5.53,Smart TV,Comedy ,2.94,3,2,3,1,,5.5,Satisfied,FHD (1080p),38,Low
+CUST-1525,25, Male,basic ,8.99, E-Wallet,3.29,Mobile, anime,1.18,2,1,9,1,,7.5,Neutral,SD (480p),3,High
+CUST-1036,19,Male ,student,4.99,E-Wallet ,5.5, Smart TV, comedy,1.42,8,1,3,1,3.48,,Satisfied,FHD (1080p),35,Low
+CUST-1541,16,MALE,student,4.99,E-Wallet,2.85, Mobile,ANIME,1.52,9,1,9,1,2.95,,Neutral,FHD (1080p),6,High
+CUST-1171,46, Male, Premium,18.99,BANK TRANSFER,2.94,Laptop/PC,Drama,0.23,3,5,4,1,,1.9,Neutral,4K UHD,38,Low
+CUST-1655,35,FEMALE,standard,13.99,Ewallet,4.06,smart tv,DOCUMENTARY,0.07,8,2,6,1,,5.8,Neutral,4K UHD,4,High
+CUST-1903,25,male,BASIC,8.99,EWALLET,1.5,Laptop/PC ,Anime,0.14,2,1,2,1,,7.0,Neutral,SD (480p),8,Moderate
+CUST-1870,16,FEMALE ,basic,8.99,credit card,2.35,MOBILE,SciFi,0.58,9,1,3,1,,8.2,Satisfied,HD (720p),10,Low
+CUST-1860,32,Female ,STANDARD,13.99,Ewallet,3.51,smart tv,Drama,0.6,4,2,6,0,,8.2,Neutral,4K UHD,33,Low
+CUST-1966,16,FEMALE ,student,4.99, CREDIT CARD,1.67,Mobile,Documentary,0.86,18,1,6,0,3.27,,Satisfied,HD (720p),9,Low
+CUST-1734,33,Male ,Standard ,13.99,bank transfer,3.18,smart tv,SciFi,1.66,5,3,2,0,,7.1,Satisfied,FHD (1080p),5,Low
+CUST-1096,47,FEMALE ,premium ,18.99,Bank Transfer,4.6,Smart TV ,ACTION,0.96,2,4,3,1,,6.5,Satisfied,4K UHD,17,Low
+CUST-1564,20,Female , student,4.99,Ewallet,4.98,Mobile,drama,1.09,16,1,6,1,3.42,,Neutral,HD (720p),48,Moderate
+CUST-1241,27,male ,Standard,13.99,Credit Card ,2.76,Smart TV ,ACTION,1.75,2,3,8,2,,4.8,Neutral,4K UHD,24,High
+CUST-1743,31,Male,Standard ,13.99,credit card,2.79,smart tv,Comedy,0.28,4,2,7,3,,5.0,Dissatisfied,4K UHD,3,High
+CUST-1575,27,female ,STANDARD,13.99,e-wallet,2.56,SMART TV,Sci-Fi ,1.82,5,2,6,3,,6.3,Very Dissatisfied,4K UHD,24,High
+CUST-1691,18, female, student,4.99,Credit Card,4.05,laptop/pc,action ,3.0,13,2,6,3,3.73,,Dissatisfied,FHD (1080p),5,High
+CUST-1461,21,FEMALE , student,4.99,CreditCard,2.3,Laptop/PC,Action,0.01,8,1,3,1,3.36,,Neutral,HD (720p),8,Moderate
+CUST-1554,17, Male, standard,13.99,paylater,5.55,MOBILE,SciFi,3.59,20,2,6,3,,8.5,Dissatisfied,4K UHD,23,High
+CUST-1891,17,Male ,Basic,8.99,credit card,3.01, Mobile,ANIME,0.19,2,1,4,1,,8.0,Neutral,SD (480p),24,Moderate
+CUST-1207,25,male,Standard ,13.99, CREDIT CARD,4.89,MOBILE, anime,1.22,16,2,6,4,,9.5,Very Dissatisfied,FHD (1080p),48,High
+CUST-1393,25,FEMALE ,basic ,8.99,Credit Card,36.8,pc,Anime,3.0,1,1,4,1,,6.9,Neutral,SD (480p),3,High
+CUST-1795,41, Male,STANDARD,13.99,PAYLATER,1.41,tablet , anime,0.81,31,3,6,1,,3.8,Neutral,4K UHD,14,Moderate
+CUST-1398,37,FEMALE,STANDARD,13.99,Bank Transfer,2.87,mobile ,ACTION,1.99,15,2,8,4,,7.6,Dissatisfied,FHD (1080p),14,High
+CUST-1767,37,MALE,Standard ,13.99,credit card,3.15,Tablet,COMEDY,0.03,21,2,5,0,,6.6,Satisfied,4K UHD,8,Low
+CUST-1961,33,Male ,Standard ,13.99,Bank Transfer,3.68,Smart TV ,COMEDY,1.98,2,2,4,2,,9.3,Neutral,4K UHD,33,Low
+CUST-1218,36,Female ,Premium,18.99,Bank Transfer ,3.07,Smart TV ,ANIME,1.77,3,4,4,0,,3.2,Neutral,4K UHD,20,Moderate
+CUST-1005,40,FEMALE, standard,13.99,Credit Card ,2.67, Tablet,SciFi,0.64,13,3,4,0,,5.7,Satisfied,FHD (1080p),8,Low
+CUST-1769,40,FEMALE, Basic,8.99,PAYLATER,3.75,Smart TV ,Action,1.05,3,1,4,0,,9.0,Neutral,SD (480p),8,Moderate
+CUST-1643,36,Female ,Basic,8.99,Credit Card,5.43,TABLET, comedy,2.2,9,1,4,1,,7.6,Satisfied,HD (720p),8,Moderate
+CUST-1910,38,MALE,Standard,13.99,Credit Card,3.62,MOBILE, anime,2.14,18,2,9,0,,5.8,Dissatisfied,FHD (1080p),29,Moderate
+CUST-1613,30,male,Standard,13.99,BANK TRANSFER,3.51,Smart TV,action ,0.83,4,2,8,4,,9.3,Dissatisfied,4K UHD,8,High
+CUST-1739,31,OTHER,Standard ,13.99,Credit Card ,3.1,pc, anime,0.38,5,2,7,1,,7.8,Neutral,FHD (1080p),22,Moderate
+CUST-1547,24,FEMALE,premium ,18.99, CREDIT CARD,2.99, Mobile,Comedy,2.12,14,4,5,1,,8.8,Neutral,FHD (1080p),30,Low
+CUST-1726,20,Female , student,4.99, PayLater,1.85,Laptop/PC ,Documentary,1.38,20,2,4,0,3.38,,Satisfied,HD (720p),17,Low
+CUST-1684,27,MALE,STANDARD,13.99,Credit Card ,4.31,mobile ,sci-fi,2.9,22,3,6,3,,6.7,Very Dissatisfied,4K UHD,35,High
+CUST-1099,47,Female ,Standard ,13.99,e-wallet,3.89,MOBILE,drama,2.5,19,3,6,2,,9.5,Neutral,4K UHD,34,Low
+CUST-1805,34, female,STANDARD,13.99,e-wallet,4.48,pc,action ,0.44,4,2,5,0,,5.4,Satisfied,FHD (1080p),11,Low
+CUST-1728,39,other, Basic,8.99,credit card,2.29,mobile,action ,1.28,1,1,3,1,,6.5,Neutral,HD (720p),48,Low
+CUST-1574,45,MALE,Standard,13.99,e-wallet,2.29,mobile,Comedy,0.4,14,3,4,0,,7.3,Neutral,FHD (1080p),14,Moderate
+CUST-1407,37, Male,premium ,18.99,Credit Card ,2.46,Smart TV, anime,0.37,3,4,2,0,,7.8,Very Satisfied,4K UHD,2,Low
+CUST-1503,46,female ,premium ,18.99, PayLater,3.72,Mobile,ACTION,1.51,18,4,5,1,,10.0,Satisfied,4K UHD,9,Low
+CUST-1048,18, female,student,4.99, E-Wallet,3.22,laptop/pc,documentary,1.7,12,1,6,3,3.72,,Dissatisfied,FHD (1080p),13,High
+CUST-1033,25,male ,premium,18.99,PAYLATER,3.21,MOBILE, Action,1.23,16,5,4,1,,6.4,Satisfied,4K UHD,34,Low
+CUST-1780,35,FEMALE ,Standard,13.99,e-wallet,3.51,MOBILE,DOCUMENTARY,1.38,19,2,3,1,,7.1,Satisfied,FHD (1080p),48,Low
+CUST-1840,32,MALE,premium ,18.99,credit card,2.09,laptop/pc,Action,0.02,1,3,2,2,,5.8,Satisfied,FHD (1080p),2,Moderate
+CUST-1201,36,FEMALE,premium ,18.99,E-Wallet,3.01,PC,Comedy ,1.74,4,5,6,2,,6.3,Neutral,4K UHD,1,High
+CUST-1135,16,FEMALE,student,4.99,E-Wallet,2.25,Smart TV ,Documentary,0.64,12,1,8,0,2.91,,Satisfied,HD (720p),7,Moderate
+CUST-1028,27,Male,Standard,13.99,Bank Transfer,3.5,Mobile, Action,1.2,16,3,5,1,,6.6,Neutral,4K UHD,18,Moderate
+CUST-1893,28,Male ,PREMIUM,18.99,paylater,2.37,tablet,ANIME,0.71,17,4,6,2,,6.2,Dissatisfied,FHD (1080p),31,Moderate
+CUST-1231,20,Male,Premium,18.99,E-Wallet,3.26,tablet,DRAMA,2.28,17,4,0,0,,10.0,Very Satisfied,4K UHD,10,Low
+CUST-1490,34,FEMALE,Premium,18.99, E-Wallet,3.03,PC,Anime ,0.92,1,3,2,2,,8.1,Neutral,FHD (1080p),12,Moderate
+CUST-1773,36, female,Standard ,13.99,Credit Card ,5.24,smart tv,Sci-Fi ,0.4,7,2,7,1,,7.4,Dissatisfied,FHD (1080p),14,High
+CUST-1379,19,Female ,basic ,8.99,EWALLET,2.48,TABLET,Sci-Fi,1.43,4,1,8,2,,9.0,Dissatisfied,SD (480p),11,High
+CUST-1289,39,Male,Standard,13.99,e-wallet,2.87,smart tv,ACTION,0.09,6,3,4,0,,9.4,Neutral,4K UHD,13,Moderate
+CUST-1419,35,MALE,Standard,13.99,paylater,4.96,SMART TV,Sci-Fi ,3.31,6,2,7,3,,7.1,Very Dissatisfied,4K UHD,45,High
+CUST-1675,34,FEMALE ,standard,13.99, CREDIT CARD,2.69,pc,COMEDY,0.18,7,3,7,2,,4.9,Dissatisfied,4K UHD,13,High
+CUST-1392,47,FEMALE , standard,13.99,Credit Card,2.4,mobile,ACTION,0.78,19,2,2,1,,6.4,Satisfied,4K UHD,13,Low
+CUST-1593,34,Female,PREMIUM,18.99, CREDIT CARD,4.19, Mobile,ANIME,0.15,19,3,5,1,,5.7,Satisfied,FHD (1080p),5,Moderate
+CUST-1499,35, female,Premium,18.99,PAYLATER,2.35,Laptop/PC,sci-fi,0.06,5,3,5,1,,6.0,Satisfied,4K UHD,2,Moderate
+CUST-1139,25,Male, Premium,18.99,PAYLATER,4.95,PC,ACTION,3.23,3,3,4,1,,6.7,Satisfied,FHD (1080p),27,Low
+CUST-1063,29,Female ,Basic,8.99,CreditCard,5.5,Mobile,Documentary,3.84,3,1,4,1,,9.8,Satisfied,HD (720p),33,Low
+CUST-1472,25,FEMALE ,standard,13.99, CREDIT CARD,4.05,smart tv,Drama,0.73,4,3,7,0,,7.7,Satisfied,4K UHD,31,Low
+CUST-1648,26,male ,basic,8.99,bank transfer,3.17,Mobile,Comedy ,0.22,6,1,8,1,,4.4,Neutral,HD (720p),36,Moderate
+CUST-1129,25,Male,Basic,8.99,Credit Card ,4.9,MOBILE,action ,0.62,7,1,4,0,,7.7,Satisfied,SD (480p),28,Low
+CUST-1992,17,FEMALE ,STUDENT,4.99, E-Wallet,1.29,Smart TV, Action,0.63,9,1,4,2,3.11,,Neutral,HD (720p),5,High
+CUST-1521,42,Female, standard,13.99,Ewallet,1.45,pc,ACTION,0.22,5,2,7,2,,3.1,Neutral,4K UHD,14,Moderate
+CUST-1839,25, Male,Basic,8.99,credit card,4.98, Smart TV,SciFi,2.16,3,1,8,1,,10.0,Neutral,HD (720p),3,High
+CUST-1978,38,MALE,Standard ,13.99,EWALLET,2.68, Smart TV,ACTION,0.06,2,3,6,5,,5.8,Dissatisfied,4K UHD,9,High
+CUST-1065,43, female,Basic,8.99,Credit Card,4.44,Mobile, comedy,2.11,3,1,6,2,,5.9,Dissatisfied,SD (480p),7,High
+CUST-1813,38, Male, Basic,8.99,Paylater ,1.69, Smart TV,ACTION,0.14,2,1,4,0,,2.8,Satisfied,HD (720p),32,Low
+CUST-1015,39,MALE,Basic,8.99, CREDIT CARD,4.48,mobile , comedy,0.52,6,1,8,3,,3.9,Dissatisfied,HD (720p),34,High
+CUST-1157,18,Male ,STANDARD,13.99,e-wallet,2.98,Smart TV,ACTION,0.87,7,3,6,1,,7.4,Dissatisfied,FHD (1080p),3,High
+CUST-1041,30,female ,Standard,13.99,Paylater ,1.78,Smart TV,Comedy ,0.32,3,2,5,2,,9.2,Dissatisfied,4K UHD,6,High
+CUST-1493,40,MALE,basic,8.99, CREDIT CARD,28.5, Smart TV,drama,3.39,3,1,5,1,,7.7,Neutral,SD (480p),7,Moderate
+CUST-1380,27, female,STANDARD,13.99,PAYLATER,4.3,Smart TV ,ACTION,2.13,2,3,4,1,,5.5,Neutral,FHD (1080p),11,Moderate
+CUST-1188,47,female ,Standard,13.99,Bank Transfer,3.9,MOBILE,documentary,2.63,19,3,5,1,,6.9,Satisfied,FHD (1080p),9,Low
+CUST-1764,41,female ,Standard ,13.99,Credit Card,5.12,laptop/pc,Sci-Fi,0.37,4,3,9,2,,5.5,Very Dissatisfied,FHD (1080p),5,High
+CUST-1217,-29,Male,Standard,13.99,E-Wallet ,3.26,mobile ,Comedy ,0.35,17,2,5,0,,8.5,Neutral,4K UHD,48,Low
+CUST-1792,27,MALE,Standard,13.99,CreditCard,2.53,Laptop/PC ,Comedy ,1.55,3,3,5,0,,8.9,Neutral,4K UHD,17,Moderate
+CUST-1053,25,FEMALE ,premium,18.99,E-Wallet ,2.55,laptop/pc,COMEDY,1.4,2,5,5,0,,6.6,Neutral,4K UHD,26,Low
+CUST-1879,23,MALE,standard,13.99,CreditCard,5.56,Smart TV,Documentary ,3.42,3,2,4,0,,8.4,Neutral,4K UHD,40,Low
+CUST-1338,41,male,STANDARD,13.99,E-Wallet ,3.97,Laptop/PC,Drama ,1.65,4,2,8,0,,7.8,Satisfied,FHD (1080p),3,Moderate
+CUST-1749,31, female,Basic,8.99,CreditCard,2.35,SMART TV,ACTION,0.51,4,1,2,2,,6.1,Satisfied,HD (720p),10,Low
+CUST-1720,39,Female,premium ,18.99,e-wallet,2.84,mobile,DRAMA,0.89,10,3,6,1,,7.0,Neutral,4K UHD,4,High
+CUST-1725,18,Female ,STUDENT,4.99,Paylater ,2.58, Tablet,Documentary,0.54,11,2,7,1,2.4,,Neutral,FHD (1080p),13,Moderate
+CUST-1296,39,FEMALE ,Premium,18.99,CreditCard,3.61,mobile,Documentary ,0.4,14,5,1,0,,5.4,Satisfied,4K UHD,2,Low
+CUST-1702,27,female , Premium,18.99, E-Wallet,1.88,Laptop/PC,SciFi,0.19,2,4,8,0,,4.4,Satisfied,4K UHD,45,Low
+CUST-1252,46, Male,standard,13.99,Credit Card,3.26,Laptop/PC,Drama,1.67,3,3,5,0,,6.7,Satisfied,FHD (1080p),42,Low
+CUST-1727,28,Female ,STANDARD,13.99,Bank Transfer ,2.38,Laptop/PC,SCI-FI,0.12,6,2,13,1,,4.4,Very Dissatisfied,FHD (1080p),12,High
+CUST-1462,28,male, Premium,18.99,PAYLATER,2.87,tablet,Drama ,2.11,24,4,3,0,,5.8,Satisfied,4K UHD,6,Low
+CUST-1456,27,male,standard,13.99, CREDIT CARD,4.8,Smart TV ,Action,2.09,4,2,5,0,,6.7,Satisfied,4K UHD,3,Moderate
+CUST-1833,21,Female,STUDENT,4.99,BANK TRANSFER,3.19,mobile ,Documentary,0.38,13,1,4,0,2.84,,Neutral,HD (720p),4,High
+CUST-1816,23,Male,Standard ,13.99,E-Wallet,3.89,Laptop/PC ,Drama ,0.17,3,2,6,3,,8.6,Very Dissatisfied,FHD (1080p),19,High
+CUST-1863,22,FEMALE ,Basic,8.99,EWALLET,3.43,MOBILE, anime,0.32,5,1,4,1,,7.7,Neutral,SD (480p),3,High
+CUST-1270,36, female, standard,13.99,Bank Transfer,3.84,tablet, Action,1.03,26,2,8,1,,6.2,Dissatisfied,FHD (1080p),13,High
+CUST-1202,37,female ,Standard ,13.99,Credit Card,4.06,Smart TV ,COMEDY,0.98,2,3,2,1,,9.3,Neutral,4K UHD,13,Moderate
+CUST-1162,37,Other ,STANDARD,13.99,Credit Card ,3.82, Mobile,Comedy,0.56,24,2,7,2,,3.4,Neutral,4K UHD,48,Low
+CUST-1556,19,FEMALE ,Standard,13.99,BANK TRANSFER,4.57,Mobile, Action,3.28,26,2,2,0,,5.3,Very Satisfied,FHD (1080p),6,Low
+CUST-1730,37,FEMALE ,basic,8.99,E-Wallet ,2.39, Smart TV,Drama ,1.01,3,1,4,0,,7.6,Neutral,HD (720p),22,Moderate
+CUST-1402,30,Male,Premium,18.99, CREDIT CARD,1.98,MOBILE,drama,0.17,20,5,6,3,,8.8,Dissatisfied,4K UHD,35,High
+CUST-1703,40,male ,basic ,8.99,credit card,2.36,laptop/pc,Comedy ,0.33,3,1,3,1,,7.0,Satisfied,HD (720p),5,Moderate
+CUST-1477,23,Male ,basic,8.99,E-Wallet,5.58,Smart TV,SCI-FI,0.53,5,1,5,1,,4.9,Satisfied,SD (480p),9,Moderate
+CUST-1822,30,Female, standard,13.99,Credit Card,2.86,smart tv,Documentary,1.68,1,3,5,1,,10.0,Satisfied,4K UHD,17,Low
+CUST-1772,36, female,BASIC,8.99,E-Wallet ,3.56,Smart TV ,Sci-Fi ,2.43,3,1,10,0,,9.2,Neutral,SD (480p),2,High
+CUST-1106,21,FEMALE, student,4.99,Paylater ,3.05,pc,Drama ,1.85,18,1,1,3,3.43,,Dissatisfied,HD (720p),13,High
+CUST-1566,35,Other,Standard,13.99,Credit Card,2.95,Laptop/PC,ACTION,1.2,4,3,3,1,,5.7,Satisfied,FHD (1080p),9,Low
+CUST-1390,35,male ,premium,18.99,credit card,4.23,mobile,action ,2.05,25,5,7,1,,7.1,Dissatisfied,FHD (1080p),7,High
+CUST-1002,20,MALE,student,4.99,bank transfer,3.87,Smart TV ,Documentary ,0.68,13,2,13,3,3.85,,Very Dissatisfied,HD (720p),29,High
+CUST-1951,36,female ,Premium,18.99,e-wallet,3.71,laptop/pc,SciFi,0.88,7,3,5,0,,6.7,Neutral,4K UHD,9,Moderate
+CUST-1998,25,Male ,STANDARD,13.99,Ewallet,2.11,smart tv,Drama ,0.03,4,2,6,1,,4.8,Neutral,4K UHD,31,Low
+CUST-1562,37,male , Basic,8.99,EWALLET,4.6, Mobile,COMEDY,1.8,3,1,5,0,,5.8,Neutral,SD (480p),48,Low
+CUST-1932,39,female ,Basic,8.99, CREDIT CARD,5.41,MOBILE,Action,2.49,3,1,7,2,,8.2,Dissatisfied,HD (720p),16,High
+CUST-1081,37, female,BASIC,8.99,Bank Transfer,2.41, Mobile,ACTION,1.35,2,1,3,1,,7.7,Neutral,HD (720p),24,Moderate
+CUST-1206,41,Male,premium ,18.99,CreditCard,2.81,Laptop/PC ,Comedy ,0.81,4,3,2,1,,4.9,Neutral,4K UHD,21,Moderate
+CUST-1035,35,male,basic ,8.99,BANK TRANSFER,3.69,Mobile,SCI-FI,1.25,3,1,5,1,,8.8,Satisfied,SD (480p),21,Moderate
+CUST-1776,28,Female ,Standard,13.99,Credit Card,3.51,SMART TV,Drama,0.5,7,2,5,1,,10.0,Neutral,FHD (1080p),14,Moderate
+CUST-1509,52,male,Basic,8.99,E-Wallet ,1.35,pc,COMEDY,0.06,4,1,6,3,,8.9,Very Dissatisfied,HD (720p),6,High
+CUST-1428,17,Female , student,4.99,PayLater,3.64,SMART TV,drama,0.55,18,1,6,3,2.54,,Dissatisfied,FHD (1080p),2,High
+CUST-1455,34, Male,BASIC,8.99,EWALLET,3.91,Smart TV, anime,0.96,3,1,7,2,,10.0,Dissatisfied,HD (720p),15,High
+CUST-1367,25,other,basic,8.99,Bank Transfer,1.64,Smart TV, anime,0.77,5,1,5,1,,6.8,Satisfied,SD (480p),14,Moderate
+CUST-1092,16,male , student,4.99,credit card,3.89,Smart TV , Action,0.84,8,1,4,1,3.17,,Satisfied,FHD (1080p),48,Low
+CUST-1340,34, Male,PREMIUM,18.99,Ewallet,3.23,mobile, anime,2.24,21,3,3,0,,5.3,Satisfied,FHD (1080p),10,Low
+CUST-1898,45, Male,Standard,13.99,BANK TRANSFER,2.52,Laptop/PC ,Documentary,0.12,4,3,6,3,,6.2,Dissatisfied,FHD (1080p),42,High
+CUST-1565,47,FEMALE,Basic,8.99,credit card,3.79,laptop/pc,DRAMA,2.76,2,1,4,0,,4.9,Neutral,SD (480p),3,High
+CUST-1346,31, Male,premium ,18.99,credit card,4.69,smart tv,Comedy ,0.05,0,4,6,1,,8.4,Neutral,4K UHD,6,Moderate
+CUST-1777,41,female ,premium ,18.99,EWALLET,2.36,tablet, comedy,1.59,13,3,9,1,,6.2,Dissatisfied,4K UHD,13,High
+CUST-1242,28,Female ,standard,13.99,EWALLET,1.91,laptop/pc, Action,1.12,5,3,6,0,,7.2,Neutral,FHD (1080p),9,Moderate
+CUST-1014,31,FEMALE,Standard ,13.99, CREDIT CARD,3.89,smart tv,Documentary,2.45,2,3,5,0,,6.9,Neutral,FHD (1080p),4,Moderate
+CUST-1316,31,FEMALE,STANDARD,13.99,Paylater ,3.14, Mobile,action ,0.25,8,3,3,1,,10.0,Neutral,FHD (1080p),2,Moderate
+CUST-1601,34,female ,STANDARD,13.99,CreditCard,4.09,mobile ,Action,2.57,20,3,8,1,,3.8,Dissatisfied,4K UHD,6,High
+CUST-1388,31,MALE,standard,13.99,Ewallet,5.1,Tablet, comedy,2.56,18,3,4,1,,7.3,Satisfied,4K UHD,8,Low
+CUST-1274,38, female,basic ,8.99,e-wallet,3.49,smart tv,Sci-Fi,0.37,2,1,7,0,,8.1,Neutral,HD (720p),20,Moderate
+CUST-1167,41,female ,BASIC,8.99,e-wallet,4.02,laptop/pc, Action,2.03,3,1,5,2,,10.0,Neutral,SD (480p),7,Moderate
+CUST-1841,19,Female,basic ,8.99,credit card,5.01, Mobile,Comedy,0.82,6,1,6,0,,6.8,Neutral,HD (720p),9,Moderate
+CUST-1597,37,Female ,premium,18.99,paylater,3.13,mobile,ACTION,2.17,14,4,5,0,,4.9,Neutral,FHD (1080p),48,Low
+CUST-1647,29, Male,Standard,13.99,credit card,4.91,Smart TV , comedy,1.64,1,2,3,0,,6.7,Satisfied,4K UHD,33,Low
+CUST-1819,50,Female,STANDARD,13.99, E-Wallet,2.68,mobile,action ,0.13,19,2,2,0,,4.9,Satisfied,4K UHD,6,Low
+CUST-1485,32,male,standard,13.99,CreditCard,1.86,Smart TV ,DOCUMENTARY,1.04,3,2,3,0,,7.4,Satisfied,FHD (1080p),20,Low
+CUST-1996,28,FEMALE,standard,13.99,EWALLET,2.26, Mobile,Anime,0.52,17,2,7,3,,6.7,Very Dissatisfied,FHD (1080p),13,High
+CUST-1505,52, female,Standard ,13.99,Credit Card,5.18,tablet,Anime ,3.06,24,3,7,1,,8.0,Neutral,4K UHD,7,Moderate
+CUST-1832,26, female,Basic,8.99,Credit Card ,5.06,smart tv,sci-fi,1.32,5,1,3,1,,8.7,Neutral,SD (480p),14,Moderate
+CUST-1244,17, Male, Premium,18.99,EWALLET,5.12,Smart TV ,Sci-Fi ,2.07,7,4,4,0,,3.9,Satisfied,4K UHD,11,Low
+CUST-1567,44,male , standard,13.99,Ewallet,3.85,SMART TV,DRAMA,0.38,4,2,4,0,,6.6,Neutral,FHD (1080p),3,Moderate
+CUST-1876,23,Female,STUDENT,4.99,Ewallet,5.49,MOBILE, comedy,1.78,13,2,7,3,2.49,,Very Dissatisfied,HD (720p),35,High
+CUST-1563,29,male ,premium,18.99,e-wallet,4.11,TABLET,Comedy ,1.93,25,3,9,4,,6.5,Very Dissatisfied,4K UHD,20,High
+CUST-1968,30,FEMALE ,Standard,13.99, PayLater,4.3,mobile,Sci-Fi ,1.53,22,3,3,1,,5.0,Satisfied,FHD (1080p),30,Low
+CUST-1687,41, Other,basic ,8.99,CreditCard,3.68, Smart TV,Documentary ,0.24,3,1,5,0,,6.2,Satisfied,HD (720p),26,Low
+CUST-1958,25,Male ,STANDARD,13.99,paylater,4.95,smart tv,COMEDY,2.62,5,3,6,2,,5.9,Dissatisfied,FHD (1080p),3,High
+CUST-1190,24,male,BASIC,8.99, E-Wallet,4.45,MOBILE,Anime,3.23,3,1,4,1,,9.5,Satisfied,SD (480p),15,Moderate
+CUST-1783,37,Female,PREMIUM,18.99,BANK TRANSFER,3.5,smart tv,DRAMA,1.99,1,3,3,0,,5.0,Neutral,4K UHD,4,Moderate
+CUST-1700,35, Male,premium,18.99,bank transfer,3.36,MOBILE,documentary,1.79,20,3,4,2,,8.7,Dissatisfied,FHD (1080p),2,High
+CUST-1476,37,FEMALE ,basic,8.99,CreditCard,3.74,Smart TV , Action,2.66,5,1,8,0,,6.9,Satisfied,SD (480p),29,Low
+CUST-1682,41, female,premium,18.99,Credit Card,3.29,mobile , anime,2.39,18,5,3,1,,10.0,Satisfied,4K UHD,48,Low
+CUST-1511,19,MALE,Standard ,13.99,paylater,4.04,Tablet,Documentary,2.04,18,3,3,1,,5.3,Neutral,FHD (1080p),5,Moderate
+CUST-1059,32,female ,premium,18.99,e-wallet,4.16,MOBILE,DRAMA,2.78,11,3,6,2,,7.3,Neutral,4K UHD,19,Moderate
+CUST-1475,33,Male ,premium ,18.99,Credit Card ,3.6,Smart TV ,ACTION,1.98,4,4,4,0,,7.8,Neutral,4K UHD,3,Moderate
+CUST-1561,45, Male, Basic,8.99,PayLater,3.53,Smart TV ,drama,2.32,6,1,5,0,,9.2,Satisfied,SD (480p),2,Moderate
+CUST-1857,44,Male,standard,13.99,PayLater,3.5,mobile,Anime ,1.0,16,3,7,1,,5.8,Neutral,4K UHD,32,Low
+CUST-1748,44,FEMALE ,STANDARD,13.99,Bank Transfer ,1.97,Smart TV ,SciFi,0.53,7,2,3,3,,7.2,Dissatisfied,FHD (1080p),14,High
+CUST-1253,32,Other,STANDARD,13.99,e-wallet,2.59,mobile ,drama,0.78,15,3,5,0,,4.5,Satisfied,4K UHD,7,Low
+CUST-1022,22, Male,student,4.99,Credit Card ,4.95,laptop/pc,Documentary,1.81,11,2,5,0,2.2,,Neutral,FHD (1080p),18,Moderate
+CUST-1314,22,Male ,STUDENT,4.99,Bank Transfer,3.28,Mobile, comedy,1.45,11,1,4,0,3.8,,Satisfied,FHD (1080p),2,Moderate
+CUST-1460,33,male, Premium,18.99,Ewallet,2.59,SMART TV,documentary,1.11,3,3,4,1,,1.6,Neutral,4K UHD,10,Moderate
+CUST-1161,33,Male,BASIC,8.99,credit card,2.37,MOBILE, comedy,1.05,4,1,5,0,,5.8,Satisfied,SD (480p),11,Low
+CUST-1277,23,MALE,basic,8.99,credit card,5.23,MOBILE,Sci-Fi ,2.33,5,1,3,0,,6.7,Satisfied,HD (720p),48,Low
+CUST-1956,37,male ,basic,8.99,credit card,2.83,tablet ,ACTION,1.83,3,1,4,0,,7.9,Neutral,HD (720p),1,High
+CUST-1192,17, female,Standard,13.99,Bank Transfer,3.04,tablet,Action,1.59,15,2,4,1,,5.1,Satisfied,4K UHD,30,Low
+CUST-1386,30, female,Standard ,13.99, CREDIT CARD,1.69,Laptop/PC ,Comedy ,0.6,5,2,4,0,,8.7,Satisfied,FHD (1080p),1,Moderate
+CUST-1806,37, Other,PREMIUM,18.99,E-Wallet,3.43, Smart TV,Drama,0.2,3,3,3,1,,7.7,Neutral,4K UHD,19,Moderate
+CUST-1414,22,Female ,Student ,4.99,credit card,2.17, Smart TV,ANIME,1.42,17,1,4,0,2.48,,Satisfied,HD (720p),36,Low
+CUST-1492,19,male ,Basic,8.99, E-Wallet,2.53,SMART TV,DRAMA,0.7,1,1,2,2,,7.0,Neutral,HD (720p),5,High
+CUST-1344,32, female,PREMIUM,18.99, E-Wallet,4.57,mobile, comedy,2.1,17,3,6,1,,5.0,Neutral,4K UHD,12,Moderate
+CUST-1770,53,male ,Premium,18.99, E-Wallet,1.86,mobile , comedy,0.68,18,3,5,0,,7.8,Neutral,FHD (1080p),48,Low
+CUST-1309,31,Female, standard,13.99,Credit Card,2.31,Mobile,Comedy ,0.53,18,3,7,4,,4.7,Very Dissatisfied,FHD (1080p),36,High
+CUST-1662,25,Male ,Standard ,13.99,credit card,3.19,Mobile, comedy,0.76,17,3,4,0,,7.7,Neutral,FHD (1080p),21,Moderate
+CUST-1131,17,Male,student,4.99,E-Wallet,2.73,Smart TV ,action ,0.62,12,1,8,3,3.76,,Dissatisfied,FHD (1080p),9,High
+CUST-1664,50,male ,standard,13.99,CreditCard,4.03,mobile,Comedy,2.85,14,2,7,0,,7.1,Neutral,4K UHD,8,Moderate
+CUST-1872,33, Other, Basic,8.99,PayLater,3.01,Smart TV ,Comedy ,0.64,4,1,10,2,,9.7,Dissatisfied,SD (480p),3,High
+CUST-1100,25,Female , standard,13.99,Credit Card,4.57,Mobile, Action,0.05,17,3,9,0,,5.9,Neutral,FHD (1080p),32,Moderate
+CUST-1373,46, female,basic ,8.99,E-Wallet,3.46,Smart TV ,Comedy,1.38,3,1,7,1,,3.7,Dissatisfied,SD (480p),4,High
+CUST-1088,41,Female ,premium ,18.99,Bank Transfer,3.94,mobile ,sci-fi,2.93,22,4,7,2,,5.4,Dissatisfied,4K UHD,20,High
+CUST-1459,42,female ,premium,18.99,Credit Card,2.57,Smart TV ,Drama ,0.29,2,5,7,2,,6.0,Dissatisfied,4K UHD,2,High
+CUST-1331,25,Female,basic ,8.99,Ewallet,4.64,Tablet,Drama ,2.66,6,1,8,0,,8.2,Neutral,HD (720p),3,High
+CUST-1215,37,Male,premium,18.99,e-wallet,4.16,Mobile,drama,0.56,17,4,6,1,,6.3,Dissatisfied,FHD (1080p),10,High
+CUST-1467,36,Female,standard,13.99,bank transfer,3.79,SMART TV,Anime,1.51,3,2,7,1,,4.5,Dissatisfied,FHD (1080p),7,High
+CUST-1122,24,Female ,STUDENT,4.99,Credit Card ,3.85,mobile ,Action,1.84,15,1,5,0,3.47,,Neutral,FHD (1080p),7,Moderate
+CUST-1615,50, Male, Basic,8.99,e-wallet,4.11,mobile,SciFi,1.15,7,1,2,1,,5.4,Satisfied,HD (720p),48,Low
+CUST-1021,21, female,BASIC,8.99,credit card,4.51,MOBILE,ANIME,2.44,3,1,2,1,,8.8,Satisfied,SD (480p),48,Low
+CUST-1701,37,Female,basic ,8.99,E-Wallet ,4.01,SMART TV,SCI-FI,2.27,3,1,4,0,,6.8,Satisfied,HD (720p),1,Moderate
+CUST-1072,39, female,STANDARD,13.99,credit card,2.17,Smart TV,ACTION,0.83,4,3,9,0,,6.6,Dissatisfied,4K UHD,41,Moderate
+CUST-1107,25,female ,basic,8.99,PAYLATER,4.66,Smart TV ,ANIME,0.91,5,1,3,0,,6.4,Satisfied,HD (720p),48,Low
+CUST-1271,25,MALE,Premium,18.99,E-Wallet ,4.11,Smart TV ,DRAMA,0.26,1,3,6,2,,9.5,Neutral,4K UHD,1,High
+CUST-1861,21,MALE,student,4.99,Credit Card,5.25,tablet,Drama ,0.44,18,1,5,1,3.12,,Neutral,HD (720p),11,Moderate
+CUST-1436,37,Male ,BASIC,8.99,e-wallet,2.92,MOBILE,Drama,0.75,2,1,3,1,,8.3,Neutral,HD (720p),17,Moderate
+CUST-1103,35,MALE,Standard ,13.99, E-Wallet,3.93,PC,SCI-FI,1.74,4,2,2,0,,6.4,Very Satisfied,4K UHD,1,Low
